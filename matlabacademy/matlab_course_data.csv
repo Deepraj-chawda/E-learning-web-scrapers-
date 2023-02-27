@@ -1,0 +1,7405 @@
+,title,level,Prerequisites,Duration,Languages,Course Details,days details
+0,MATLAB for Financial Applications,"Level: 
+Fundamental",['Undergraduate-level mathematics and experience with basic computer operations'],"Duration: 
+3 days","Languages: 
+English","
+This three-day course provides a comprehensive introduction to the MATLAB® technical computing environment for financial professionals. The course is intended for beginning users and those looking for a review. No prior programming experience or knowledge of MATLAB is assumed. Themes of data analysis, visualization, modeling, and programming are explored throughout the course, with an emphasis on practical application to finance, such as time-series analysis, Monte Carlo simulation, portfolio management, and empirical modeling.
+Topics include:
+
+Working with the MATLAB user interface
+Entering commands and creating variables
+Importing and organizing data from spreadsheets and other data sources
+Working with financial data in MATLAB
+Working with dates and times
+Visualizing data
+Filtering datasets based on logical criteria
+Automating commands with scripts
+Writing programs with branching and loops
+Writing functions
+Performing data analysis, modeling, and simulation
+Optimizing mean-variance portfolios
+
+
+
+
+
+
+
+This program has been approved by GARP and qualifies for 21 GARP CPD credit hours. If you are a Certified FRM or ERP, please record this activity in your credit tracker at https://www.garp.org/cpd
+
+
+
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Working with the MATLAB User Interface
+
+
+
+Objective: Become familiar with the main features of the MATLAB integrated design environment and its user interfaces. Get an overview of course themes.
+
+Reading data from files
+Saving and loading variables
+Plotting data interactively
+Customizing plots
+Exporting graphics for use in other applications
+
+
+
+
+Variables and Commands
+
+
+
+Objective: Enter MATLAB commands, with an emphasis on creating and accessing numeric and text data. Collect MATLAB commands into code files for reproduction and automation. Learn how to perform tasks such as data import, analysis, and report generation.
+
+Entering commands
+Creating numeric and text variables
+Making and annotating plots
+Getting help
+Creating and running live scripts
+Formatting and sharing live scripts
+
+
+
+
+Working with Time Series
+
+
+
+Objective: Import time-based data as a MATLAB timetable. Use variables to represent and manipulate dates and time durations.
+
+Storing data in timetables
+Operating on timetables
+Creating vector variables
+Accessing and manipulating data
+Performing calculations with dates and durations
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Data Analysis
+
+
+
+Objective: Perform mathematical and statistical calculations on numerical data. Use MATLAB syntax to perform preprocessing and analysis tasks on multiple price series with single commands.
+
+Performing calculations on data
+Interpreting matrix data
+Using matrices for analysis
+Visualizing matrix data
+
+
+
+
+Conditional Data Selection
+
+
+
+Objective: Analyze subsets of data that satisfy given criteria.
+
+Logical operations and variables
+Finding and counting
+Logical indexing
+Managing discrete variables using categorical arrays
+
+
+
+
+Increasing Automation with Programming Constructs
+
+
+
+Objective: Create flexible code that can interact with the user, make decisions, and adapt to different situations.
+
+Programming constructs
+User interaction
+Retrieving data from datafeeds
+Decision branching
+Loops
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Increasing Automation with Functions
+
+
+
+Objective: Increase automation by encapsulating modular tasks as user-defined functions. Understand how MATLAB resolves references to files and variables. Use MATLAB development tools to find and correct problems with code.
+
+Creating functions
+Calling functions
+Setting the MATLAB path
+Debugging
+Using breakpoints
+
+
+
+
+Fitting Models to Empirical Data
+
+
+
+Objective: Preprocess data prior to model fitting. Fit probability distributions and linear models to data. Generate random numbers from a theoretical or fitted distribution.
+
+Dealing with missing data
+Fitting linear regression models
+Fitting probability distributions
+Simulating from distribution fits
+
+
+
+
+Portfolio Creation
+
+
+
+Objective: Use standard mean-variance metrics and a small set of portfolio constraints to define and analyze a set of feasible portfolio constraints to define and analyze a set of feasible portfolios.
+
+The portfolio data type
+Defining a universe of assets
+Defining investment constraints
+Estimating and visualizing an efficient frontier
+
+
+
+"
+1,MATLAB Fundamentals,"Level: 
+Fundamental",['Undergraduate-level mathematics and experience with basic computer operations'],"Duration: 
+3 days","Languages: 
+Deutsch, English, Français, 日本語, 한국어, 中文","
+This three-day course provides a comprehensive introduction to the MATLAB® technical computing environment. No prior programming experience or knowledge of MATLAB is assumed. Themes of data analysis, visualization, modeling, and programming are explored throughout the course.
+
+
+
+Topics include:
+
+Working with the MATLAB user interface
+Entering commands and creating variables
+Analyzing vectors and matrices
+Visualizing vector and matrix data
+Working with data files
+Working with data types
+Automating commands with scripts
+Writing programs with branching and loops
+Writing functions
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Working with the MATLAB User Interface
+
+
+
+Objective: Become familiar with the main features of the MATLAB integrated design environment and its user interfaces. Get an overview of course themes.
+
+Reading data from files
+Saving and loading variables
+Plotting data
+Customizing plots
+Exporting graphics for use in other applications
+
+
+
+
+Variables and Commands
+
+
+
+Objective: Enter MATLAB commands, with an emphasis on creating variables, accessing and manipulating data in variables, and creating basic visualizations. Collect MATLAB commands into scripts for ease of reproduction and experimentation.
+
+Entering commands
+Creating numeric and character variables
+Making and annotating plots
+Getting help
+Creating and running live scripts
+
+
+
+
+Analysis and Visualization with Vectors
+
+
+
+Objective: Perform mathematical and statistical calculations with vectors. Use MATLAB syntax to perform calculations on whole data sets with a single command. Organize scripts into logical sections for development, maintenance, and publishing.
+
+Performing calculations with vectors
+Accessing and modifying values in vectors
+Formatting and sharing live scripts
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Analysis and Visualization with Matrices
+
+
+
+Objective: Use matrices as mathematical objects or as collections of (vector) data. Understand the appropriate use of MATLAB syntax to distinguish between these applications.
+
+Creating and manipulating matrices
+Performing calculations with matrices
+Calculating statistics with matrix data
+Visualizing matrix data
+
+
+
+
+Tables of Data
+
+
+
+Objective: Import data as a MATLAB table. Work with data stored as a table.
+
+Storing data as a table
+Operating on tables
+Extracting data from tables
+Modifying tables
+
+
+
+
+Conditional Data Selection
+
+
+
+Objective: Extract and analyze subsets of data that satisfy given criteria.
+
+Logical operations and variables
+Finding and counting
+Logical indexing
+
+
+
+
+Organizing Data
+
+
+
+Objective: Organize table data for analysis. Represent data using appropriate native MATLAB data types.
+
+Combining tables of data
+Table metadata
+Dates and durations
+Discrete categories
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Analyzing Data
+
+
+
+Objective: Perform typical data analysis tasks in MATLAB, including importing data from files, preprocessing data, fitting a model to data, and creating a customized visualization of the model.
+
+Importing from spreadsheets and delimited text files
+Dealing with missing data
+Plotting functions
+Customizing plots
+
+
+
+
+Increasing Automation with Programming Constructs
+
+
+
+Objective: Create flexible code that can interact with the user, make decisions, and adapt to different situations.
+
+Programming constructs
+User interaction
+Decision branching
+Loops
+
+
+
+
+Increasing Automation with Functions
+
+
+
+Objective: Increase automation by encapsulating modular tasks as user-defined functions. Understand how MATLAB resolves references to files and variables. Use MATLAB development tools to find and correct problems with code.
+
+Creating functions
+Calling functions
+Setting the MATLAB path
+Debugging
+Using breakpoints
+Creating and using structures
+
+
+
+"
+2,MATLAB Fundamentals for Aerospace Applications,"Level: 
+Fundamental",['Undergraduate-level mathematics and experience with basic computer operations'],"Duration: 
+3 days",,"
+This three-day course provides a comprehensive introduction to the MATLAB® technical computing environment for aerospace engineers. No prior programming experience or knowledge of MATLAB is assumed. Themes of data analysis, visualization, modeling, and programming are explored throughout the course, with an emphasis on practical application to aerospace engineering. 
+Topics include:
+
+Working with the MATLAB user interface
+Entering commands and creating variables
+Analyzing vectors and matrices
+Visualizing vector and matrix data
+Working with data files
+Working with data types
+Automating commands with scripts
+Writing programs with branching and loops
+Writing functions
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Working with the MATLAB User Interface
+
+
+
+Objective: Become familiar with the main features of the MATLAB integrated design environment and its user interfaces. Get an overview of course themes.
+
+Reading data from files
+Saving and loading variables
+Plotting data
+Customizing plots
+Exporting graphics for use in other applications
+
+
+
+
+Variables and Commands
+
+
+
+Objective: Enter MATLAB commands, with an emphasis on creating variables, accessing and manipulating data in variables, and creating basic visualizations. Collect MATLAB commands into scripts for ease of reproduction and experimentation.
+
+Entering commands
+Creating numeric and character variables
+Making and annotating plots
+Getting help
+Creating and running live scripts
+
+
+
+
+Analysis and Visualization with Vectors
+
+
+
+Objective: Perform mathematical and statistical calculations with vectors. Use MATLAB syntax to perform calculations on whole data sets with a single command. Organize scripts into logical sections for development, maintenance, and publishing.
+
+Performing calculations with vectors
+Accessing and modifying values in vectors
+Formatting and sharing live scripts
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Analysis and Visualization with Matrices
+
+
+
+Objective: Use matrices as mathematical objects or as collections of (vector) data. Understand the appropriate use of MATLAB syntax to distinguish between these applications.
+
+Creating and manipulating matrices
+Performing calculations with matrices
+Calculating statistics with matrix data
+Visualizing matrix data
+
+
+
+
+Tables of Data
+
+
+
+Objective: Import data as a MATLAB table. Work with data stored as a table.
+
+Storing data as a table
+Operating on tables
+Extracting data from tables
+Modifying tables
+
+
+
+
+Conditional Data Selection
+
+
+
+Objective: Extract and analyze subsets of data that satisfy given criteria.
+
+Logical operations and variables
+Finding and counting
+Logical indexing
+
+
+
+
+Organizing Data
+
+
+
+Objective: Organize table data for analysis. Represent data using appropriate native MATLAB data types.
+
+Combining tables of data
+Table metadata
+Dates and durations
+Discrete categories
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Analyzing Data
+
+
+
+Objective: Perform typical data analysis tasks in MATLAB, including importing data from files, preprocessing data, fitting a model to data, and creating a customized visualization of the model.
+
+Importing from spreadsheets and delimited text files
+Dealing with missing data
+Plotting functions
+Customizing plots
+
+
+
+
+Increasing Automation with Programming Constructs
+
+
+
+Objective: Create flexible code that can interact with the user, make decisions, and adapt to different situations.
+
+Programming constructs
+User interaction
+Decision branching
+Loops
+
+
+
+
+Increasing Automation with Functions
+
+
+
+Objective: Increase automation by encapsulating modular tasks as user-defined functions. Understand how MATLAB resolves references to files and variables. Use MATLAB development tools to find and correct problems with code.
+
+Creating functions
+Calling functions
+Setting the MATLAB path
+Debugging
+Using breakpoints
+Creating and using structures
+
+
+
+"
+3,MATLAB Fundamentals for Automotive Applications,"Level: 
+Fundamental",['Undergraduate-level mathematics and experience with basic computer operations'],"Duration: 
+3 days","Languages: 
+Deutsch","
+This three-day course provides a comprehensive introduction to the MATLAB® technical computing environment for automotive engineers. No prior programming experience or knowledge of MATLAB is assumed. Themes of data analysis, visualization, modeling, and programming are explored throughout the course, with an emphasis on practical application to automotive engineering. 
+Topics include:
+
+Working with the MATLAB user interface
+Entering commands and creating variables
+Analyzing vectors and matrices
+Visualizing vector and matrix data
+Working with data files
+Working with data types
+Automating commands with scripts
+Writing programs with branching and loops
+Writing functions
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Working with the MATLAB User Interface
+
+
+
+Objective: Become familiar with the main features of the MATLAB integrated design environment and its user interfaces. Get an overview of course themes.
+
+Reading data from files
+Saving and loading variables
+Plotting data
+Customizing plots
+Exporting graphics for use in other applications
+
+
+
+
+Variables and Commands
+
+
+
+Objective: Enter MATLAB commands, with an emphasis on creating variables, accessing and manipulating data in variables, and creating basic visualizations. Collect MATLAB commands into scripts for ease of reproduction and experimentation.
+
+Entering commands
+Creating numeric and character variables
+Making and annotating plots
+Getting help
+Creating and running live scripts
+
+
+
+
+Analysis and Visualization with Vectors
+
+
+
+Objective: Perform mathematical and statistical calculations with vectors. Use MATLAB syntax to perform calculations on whole data sets with a single command. Organize scripts into logical sections for development, maintenance, and publishing.
+
+Performing calculations with vectors
+Accessing and modifying values in vectors
+Formatting and sharing live scripts
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Analysis and Visualization with Matrices
+
+
+
+Objective: Use matrices as mathematical objects or as collections of (vector) data. Understand the appropriate use of MATLAB syntax to distinguish between these applications.
+
+Creating and manipulating matrices
+Performing calculations with matrices
+Calculating statistics with matrix data
+Visualizing matrix data
+
+
+
+
+Tables of Data
+
+
+
+Objective: Import data as a MATLAB table. Work with data stored as a table.
+
+Storing data as a table
+Operating on tables
+Extracting data from tables
+Modifying tables
+
+
+
+
+Conditional Data Selection
+
+
+
+Objective: Extract and analyze subsets of data that satisfy given criteria.
+
+Logical operations and variables
+Finding and counting
+Logical indexing
+
+
+
+
+Organizing Data
+
+
+
+Objective: Organize table data for analysis. Represent data using appropriate native MATLAB data types.
+
+Combining tables of data
+Table metadata
+Dates and durations
+Discrete categories
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Analyzing Data
+
+
+
+Objective: Perform typical data analysis tasks in MATLAB, including importing data from files, preprocessing data, fitting a model to data, and creating a customized visualization of the model.
+
+Importing from spreadsheets and delimited text files
+Dealing with missing data
+Plotting functions
+Customizing plots
+
+
+
+
+Increasing Automation with Programming Constructs
+
+
+
+Objective: Create flexible code that can interact with the user, make decisions, and adapt to different situations.
+
+Programming constructs
+User interaction
+Decision branching
+Loops
+
+
+
+
+Increasing Automation with Functions
+
+
+
+Objective: Increase automation by encapsulating modular tasks as user-defined functions. Understand how MATLAB resolves references to files and variables. Use MATLAB development tools to find and correct problems with code.
+
+Creating functions
+Calling functions
+Setting the MATLAB path
+Debugging
+Using breakpoints
+Creating and using structures
+
+
+
+"
+4,Simulink Fundamentals,"Level: 
+Fundamental",['MATLAB Fundamentals'],"Duration: 
+2 days","Languages: 
+Deutsch, English, Français, Italiano, 日本語, 한국어, 中文","
+This course (formerly known as Simulink for System and Algorithm Modeling) is for engineers new to system and algorithm modeling in Simulink®. It teaches attendees how to apply basic modeling techniques and tools to develop Simulink block diagrams.
+Topics include:
+
+Creating and modifying Simulink models and simulating system dynamics
+Modeling continuous-time, discrete-time, and hybrid systems
+Modifying solver settings for simulation accuracy and speed
+Building hierarchy into a Simulink model
+Creating reusable model components using subsystems, libraries, and model references
+
+If your application is signal processing or communications, please refer to the Signal Processing with Simulink course.
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating and Simulating a Model
+
+
+
+Objective: Create a simple Simulink model, simulate it, and analyze the results.
+
+Introduction to the Simulink interface
+Potentiometer system
+System inputs and outputs
+Simulation and analysis
+
+
+
+
+Modeling Programming Constructs
+
+
+
+Objective: Model and simulate basic programming constructs in Simulink.
+
+Comparisons and decision statements
+Vector signals
+PWM conversion system
+Zero crossings
+MATLAB Function block
+
+
+
+
+Modeling Discrete Systems
+
+
+
+Objective: Model and simulate discrete systems in Simulink.
+
+Discrete signals and states
+PI controller system
+Discrete transfer functions and state-space systems
+Multirate discrete systems
+
+
+
+
+Modeling Continuous Systems
+
+
+
+Objective: Model and simulate continuous systems in Simulink.
+
+Continuous states
+Throttle system
+Continuous transfer functions and state-space systems
+Physical boundaries
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Solver Selection
+
+
+
+Objective: Select a solver that is appropriate for a given Simulink model.
+
+Solver behavior
+System dynamics
+Discontinuities
+Algebraic loops
+
+
+
+
+Developing Model Hierarchy
+
+
+
+Objective: Use subsystems to combine smaller systems into larger systems.
+
+Subsystems
+Bus signals
+Masks
+
+
+
+
+Modeling Conditionally Executed Algorithms
+
+
+
+Objective: Create subsystems that are executed based on a control signal input.
+
+Conditionally executed subsystems
+Enabled subsystems
+Triggered subsystems
+Input validation model
+
+
+
+
+Combining Models into Diagrams
+
+
+
+Objective: Use model referencing to combine models.
+
+Subsystems and model referencing
+Model referencing workflow
+Model reference simulation modes
+Model workspaces
+Model dependencies
+
+
+
+
+Creating Libraries
+
+
+
+Objective: Use libraries to create and distribute custom blocks.
+
+Creating and populating libraries
+Managing library links
+Adding a library to the Simulink Library Browser
+
+
+
+"
+5,Simulink Fundamentals for Aerospace Applications,"Level: 
+Fundamental",['MATLAB Fundamentals for Aerospace Applications'],"Duration: 
+2 days",,"
+Based on Simulink Fundamentals, this course is for aerospace engineers new to system and algorithm modeling in Simulink®. It teaches attendees how to apply basic modeling techniques and tools to develop Simulink block diagrams.
+Topics include:
+
+Creating and modifying Simulink models and simulating system dynamics
+Modeling continuous-time, discrete-time, and hybrid systems
+Modifying solver settings for simulation accuracy and speed
+Building hierarchy into a Simulink model
+Creating reusable model components using subsystems, libraries, and model references
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating and Simulating a Model
+Objective: Create a simple Simulink model, simulate it, and analyze the results.
+
+Introduction to the Simulink interface
+Potentiometer system
+System inputs and outputs
+Simulation and analysis
+
+Modeling Programming Constructs
+Objective: Model and simulate basic programming constructs in Simulink.
+
+Comparisons and decision statements
+Vector signals
+PWM conversion system
+Zero crossings
+MATLAB Function block
+
+Modeling Discrete Systems
+Objective: Model and simulate discrete systems in Simulink.
+
+Discrete signals and states
+PI controller system
+Discrete transfer functions and state-space systems
+Multirate discrete systems
+
+Modeling Continuous Systems
+Objective: Model and simulate continuous systems in Simulink.
+
+Continuous states
+Throttle system
+Continuous transfer functions and state-space systems
+Physical boundaries
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Solver Selection
+Objective: Select a solver that is appropriate for a given Simulink model.
+
+Solver behavior
+System dynamics
+Discontinuities
+Algebraic loops
+
+Developing Model Hierarchy
+Objective: Use subsystems to combine smaller systems into larger systems.
+
+Subsystems
+Bus signals
+Masks
+
+Modeling Conditionally Executed Algorithms
+Objective: Create subsystems that are executed based on a control signal input.
+
+Conditionally executed subsystems
+Enabled subsystems
+Triggered subsystems
+Input validation model
+
+Combining Models into Diagrams
+Objective: Use model referencing to combine models.
+
+Subsystems and model referencing
+Model referencing workflow
+Model reference simulation modes
+Model workspaces
+Model dependencies
+
+Creating Libraries
+Objective: Use libraries to create and distribute custom blocks.
+
+Creating and populating libraries
+Managing library links
+Adding a library to the Simulink Library Browser
+
+
+
+"
+6,Simulink Fundamentals for Automotive Applications,"Level: 
+Fundamental",['MATLAB Fundamentals for Automotive Applications'],"Duration: 
+2 days","Languages: 
+Deutsch, English, 日本語","
+Based on Simulink Fundamentals, this course is for automotive engineers new to system and algorithm modeling in Simulink®. It teaches attendees how to apply basic modeling techniques and tools to develop Simulink block diagrams.
+Topics include:
+
+Creating and modifying Simulink models and simulating system dynamics
+Modeling continuous-time, discrete-time, and hybrid systems
+Modifying solver settings for simulation accuracy and speed
+Building hierarchy into a Simulink model
+Creating reusable model components using subsystems, libraries, and model references
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating and Simulating a Model
+Objective: Create a simple Simulink model, simulate it, and analyze the results.
+
+Introduction to the Simulink interface
+Potentiometer system
+System inputs and outputs
+Simulation and analysis
+
+Modeling Programming Constructs
+Objective: Model and simulate basic programming constructs in Simulink.
+
+Comparisons and decision statements
+Vector signals
+PWM conversion system
+Zero crossings
+MATLAB Function block
+
+Modeling Discrete Systems
+Objective: Model and simulate discrete systems in Simulink.
+
+Discrete signals and states
+PI controller system
+Discrete transfer functions and state-space systems
+Multirate discrete systems
+
+Modeling Continuous Systems
+Objective: Model and simulate continuous systems in Simulink.
+
+Continuous states
+Throttle system
+Continuous transfer functions and state-space systems
+Physical boundaries
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Solver Selection
+Objective: Select a solver that is appropriate for a given Simulink model.
+
+Solver behavior
+System dynamics
+Discontinuities
+Algebraic loops
+
+Developing Model Hierarchy
+Objective: Use subsystems to combine smaller systems into larger systems.
+
+Subsystems
+Bus signals
+Masks
+
+Modeling Conditionally Executed Algorithms
+Objective: Create subsystems that are executed based on a control signal input.
+
+Conditionally executed subsystems
+Enabled subsystems
+Triggered subsystems
+Input validation model
+
+Combining Models into Diagrams
+Objective: Use model referencing to combine models.
+
+Subsystems and model referencing
+Model referencing workflow
+Model reference simulation modes
+Model workspaces
+Model dependencies
+
+Creating Libraries
+Objective: Use libraries to create and distribute custom blocks.
+
+Creating and populating libraries
+Managing library links
+Adding a library to the Simulink Library Browser
+
+
+
+"
+7,Accelerating and Parallelizing MATLAB Code,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+2 days","Languages: 
+English, 한국어","
+This two-day course covers a variety of techniques for making your MATLAB® code run faster. You will identify and remove computational bottle-necks using techniques like preallocation and vectorization. In addition, you will compile MATLAB code into MEX-files using MATLAB Coder™. On top of that, you will take advantage of multiple cores on your computer by parallelizing for-loops with Parallel Computing Toolbox™, and scale up across multiple computers using MATLAB Parallel Server™. Interplay between those concepts will be explored throughout the course. If you are working with long-running simulations, you will benefit from the hands-on demonstrations and exercises in the course.
+Topics include:
+
+Improving performance within core MATLAB
+Generating MEX-files
+Parallelizing computations
+Offloading execution
+Working with clusters
+GPU computing
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Improving Performance
+
+
+
+Objective: Analyze code performance and utilize techniques for acceleration within MATLAB.
+
+Identifying bottle necks
+Preallocating arrays
+Vectorizing operations in various ways
+Rewriting algorithms
+
+
+
+
+Generating MEX-Files
+
+
+
+Objective: Generate compiled code files from MATLAB code for better performance.
+
+MATLAB Coder overview and workflow
+Generating and verifying MEX-files
+Calling unsupported functions
+Adjusting settings for MEX-file generation
+
+
+
+
+Parallelizing Computations
+
+
+
+Objective: Parallelize code execution to take advantage of multiple cores.
+
+Opening additional MATLAB processes
+Running parallel for-loops
+Measuring speedup
+Processing multiple files in parallel
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Parallel for-Loops
+
+
+
+Objective: Explore parallel for-loops in more detail and apply techniques for converting for-loops to parfor-loops.
+
+Requirements of parallel for-loops
+Parallelizing for-loops
+Retrieving intermediate results
+
+
+
+
+Offloading Execution
+
+
+
+Objective: Offload computations to another MATLAB process in order to be able to use MATLAB for other tasks in the meantime. This is also a preparation step for working with clusters.
+
+Processing in batch
+Creating batch jobs
+Retrieving results
+Using the Job Monitor
+
+
+
+
+Working with Clusters
+
+
+
+Objective: Accelerate computations and realize more extensive simulations by utilizing multiple computers.
+
+Local and remote clusters
+Dynamic licensing
+Cluster discovery and connection
+File access considerations
+
+
+
+
+GPU Computing
+
+
+
+Objective: Execute MATLAB code on your computer’s graphics card (GPU) as another option for speeding up calculations.
+
+Overview of GPU architecture and processing
+Applications suitable for GPU processing
+Invoking MATLAB functions on the GPU
+Generating CUDA® MEX files using GPU Coder™
+Using pre-existing CUDA code
+
+
+
+"
+8,Advanced MATLAB Application Development,"Level: 
+Intermediate","['MATLAB Programming Techniques\xa0and some experience of working with MATLAB graphics objects', 'Some existing knowledge of object-oriented programming in MATLAB or Object-Oriented Programming with MATLAB']","Duration: 
+2 days","Languages: 
+English","
+This two-day course provides a comprehensive introduction to the key principles and techniques of object-oriented application development using MATLAB®. The course is intended for MATLAB developers who will create medium- and large-scale applications for end users, as well as existing application developers looking for best practices and guidelines for structuring their code base. The course focuses on interactive application development, although the techniques are applicable to any large-scale application.
+
+
+
+Topics include:
+
+Applying the Model-View-Controller (MVC) design pattern in MATLAB
+Creating a model class to act as a data repository for an application
+Working effectively with MATLAB graphics and user-interface control objects
+Managing the layout of application components
+Designing view classes to visualize application data
+Designing controller classes to enable user interaction with the application
+Integrating application components within an application launcher class
+Packaging, deploying, and sharing apps
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Organizing Application Data in a Model Class
+
+
+
+Objective: Create a model class to act as a data repository for an application and store the state of the system. Define and implement the core model responsibilities and actions.
+
+Exploring models within the MVC framework
+Avoiding unnecessary data copies
+Storing application data
+Providing access to data for visualization
+Providing mechanisms for control operations on the data
+Communicating changes of state or data
+
+
+
+
+Managing Application Layout
+
+
+
+Objective: Create, access, and modify graphics objects within the MATLAB graphics hierarchy. Use predefined graphics callback functions. Use layout management objects to organize the appearance of the application's graphics objects and controls.
+
+Navigating the MATLAB graphics hierarchy
+Creating, accessing, and modifying graphics and control objects
+Working with commonly used graphics objects
+Organizing application components using layout management objects
+Using predefined graphics callback functions
+
+
+
+
+Visualizing Application Data with View Classes
+
+
+
+Objective: Define view classes for visualizing application data. Define and implement the core view responsibilities and actions.
+
+Views within the MVC framework
+The relationship of a view to a model
+The relationship of a view to its graphics objects
+Dynamic updates to views using listeners and callbacks
+The interaction between a model and its views
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Design Considerations for View and Controller Components
+
+
+
+Objective: Simplify the development of view and controller classes using inheritance. Provide end users with a convenient means of interacting with the application components. Ensure robust application behavior by managing the lifecycle of view and controller components.
+
+Unifying common properties and methods in a component superclass
+Unifying common construction code
+Using abstract methods to create a common interface
+Creating a user-friendly component API
+Managing the lifecycle of component objects
+
+
+
+
+Enabling Interactive User Control with Controller Classes
+
+
+
+Objective: Create controller classes to provide user interaction with the application data. Define and implement the core controller responsibilities and actions.
+
+Controllers within the MVC framework
+The relationship of a controller to a model
+The relationship of a controller to its graphics objects
+Hybrid components that are both a view and a controller
+The interaction between a model and its controllers
+
+
+
+
+Integrating Components with an Application Launcher
+
+
+
+Objective: Integrate all application components and create a class managing the initialization, dependencies, and running status of an application. Define and implement the core application launcher responsibilities and actions.
+
+Creating the main application figure and layout
+Creating and storing the application components
+Designing applications with menus and toolbars
+Packaging and updating apps
+
+
+
+"
+9,Automated Driving with MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Image Processing with MATLAB, Computer Vision with MATLAB and basic knowledge of image processing and computer vision concepts', 'Deep Learning with MATLAB is recommended']","Duration: 
+2 days","Languages: 
+English, 日本語, 한국어","
+This two-day course provides hands-on experience with developing and verifying automated driving perception algorithms. Examples and exercises demonstrate the use of appropriate MATLAB® and Automated Driving Toolbox™ functionality.
+Topics include:
+
+Labeling of ground truth data
+Visualizing sensor data
+Detecting lanes and vehicles
+Processing lidar point clouds
+Tracking and sensor fusion
+Generating driving scenarios and modeling sensors
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Labeling of Ground Truth Data
+
+
+
+Objective: Label ground truth data in a video or sequence of images interactively. Automate the labeling with detection and tracking algorithms.
+
+Overview of the Ground Truth Labeler app
+Label regions of interest (ROIs) and scenes
+Automate labeling
+View and export ground truth results
+
+
+
+
+Visualizing Sensor Data
+
+
+
+Objective: Visualize camera frames, radar, and lidar detections. Use appropriate coordinate systems to transform image coordinates to vehicle coordinates and vice versa.
+
+Create a bird’s-eye plot
+Plot sensor coverage areas
+Visualize detections and lanes
+Convert from vehicle to image coordinates
+Annotate video with detections and lane boundaries
+
+
+
+
+Detecting Lanes and Vehicles
+
+
+
+Objective: Segment and model parabolic lane boundaries. Use pretrained object detectors to detect vehicles.
+
+Perform a bird’s-eye view transform
+Detect lane features
+Compute lane model
+Validate lane detection with ground truth
+Detect vehicles with pretrained object detectors
+
+
+
+
+Processing Lidar Point Clouds
+
+
+
+Objective: Work with lidar data stored as 3-D point clouds. Import, visualize, and process point clouds by segmenting them into clusters. Register point clouds to align and build an accumulated point cloud map.
+
+Import and visualize point clouds
+Preprocess point clouds
+Segment objects from lidar sensor data
+Build a map from lidar sensor data
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Fusing Sensor Detections and Tracking
+
+
+
+Objective: Create a multi-object tracker to fuse information from multiple sensors such as camera, radar and lidar.
+
+Track multiple objects
+Preprocess detections
+Utilize Kalman filters
+Manage multiple tracks
+Track with multi-object tracker
+
+
+
+
+Tracking Extended Objects
+
+
+
+Objective: Create a probability hypothesis density tracker to track extended objects and estimate their spatial extent.
+
+Define sensor configurations
+Track extended objects
+Estimate spatial extent
+
+
+
+
+Generating Driving Scenarios and Modeling Sensors
+
+
+
+Objective: Create driving scenarios and synthetic radar and camera sensor detections interactively to test automated driving perception algorithms.
+
+Overview of the Driving Scenario Designer app
+Create scenarios with roads, actors, and sensors
+Simulate and visualize scenarios
+Generate detections and export scenarios
+Test algorithms with scenarios
+
+
+
+"
+10,Battery Modeling and Algorithm Development with Simulink,"Level: 
+Intermediate","['Fundamental knowledge of Simulink, Stateflow and Simscape']","Duration: 
+2 days","Languages: 
+English, 日本語","
+This two-day course focuses on modeling battery packs using Simscape™ and designing key control functionalities of battery management system using Stateflow®.
+
+
+
+Topics include:
+
+Perform cell characterization
+Modeling battery packs
+Adding thermal fidelity to battery models
+Design supervisory control logic for battery operation
+Perform State-Of-Charge estimation and cell balancing
+Compute current limits and design fault diagnostic system
+Closed-loop simulation of battery pack with battery management system
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Getting Started with a Battery Cell
+
+
+
+Objective: Define terms used in a battery component. Construct a charging circuit to simulate the CC-CV charging of the cell.
+
+Define battery terms (cell capacity, C-rate, open circuit voltage)
+Model battery characteristics using the Battery(table-based) block
+Construct charge and discharge circuit with Simscape™
+
+
+
+
+Cell Characterization
+
+
+
+Objective: Analyze the equivalent circuit model of a cell. Perform characterization of a given cell.
+
+Equivalent circuit model of a Battery block
+Overview of parameter estimation
+Perform cell characterization
+
+
+
+
+Battery Pack Modeling
+
+
+
+Objective: Connect characterized cells in series configuration to create battery packs. Create thermal environment to perform multi-domain system level simulation
+
+Create battery modules
+Model cell degradation and cell inconsistencies
+Model cell thermal effects using Simscape™
+Add thermal fidelity to the battery module
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Battery Management System
+
+
+
+Objective: Introduction to battery management system. Develop supervisory control scheme for efficient and safe battery pack operation.
+
+Overview of a battery management system
+Design requirements and constraints
+Design Stateflow® logic to charge a cell using CC-CV control scheme
+Design supervisory control logic of battery management system using Stateflow®
+Create test scenarios for battery management system using Simulink Test™
+
+
+
+
+State of Charge Estimation
+
+
+
+Objective: Estimate state of charge (SoC) of a cell. Balance charge levels using a passive cell balancing scheme.
+
+Estimate the cell's state of charge using coulomb counting
+Estimate the cell's state of charge using extended Kalman Filter
+Implement a passive cell balancing network using Simscape™ and Stateflow®
+
+
+
+
+Fault Monitoring and Current Limit Computation
+
+
+
+Objective: Compute battery pack's charging and discharging current limits that satisfy design constraints and detect faults during pack operation.
+
+Detect over-voltage/over-current, short circuit, under-voltage/under-current faults during battery operation
+Compute current limits for host application
+Closed-loop simulation of battery pack with battery management system
+
+
+
+
+Appendix A: Kalman Filter and Extended Kalman Filter
+
+
+
+Objective: Use Kalman Filter and Extended Kalman filter blocks from Control System Toolbox™ library to perform state estimation.
+
+Estimate states of discrete-time or continuous-time linear system using Kalman filter
+Estimate states of discrete-time nonlinear system using extended Kalman filter
+
+
+
+"
+11,Building Interactive Applications in MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+1 day","Languages: 
+Deutsch, English, 日本語, 한국어","
+This one-day course demonstrates how to create an interactive user interface for your applications (apps) in MATLAB®. Attendees will learn about user interface controls, such as push buttons, sliders, and menus, and how to use them to create a robust and user-friendly interface for your MATLAB app. No prior experience of programming graphical interfaces is required. 
+Topics include:
+
+Laying out apps in the App Designer environment
+Creating callback functions for interactive components
+Creating and updating graphical objects in apps
+Making app components responsive to user behavior
+Creating apps with multiple windows
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Using the App Designer Environment
+
+
+
+Objective: Use App Designer to create and share an app by laying out components and giving them interactive behavior. 
+
+Working in the App Designer interface
+Adding callbacks to components
+Programming callback functionality
+Sharing apps with others
+
+
+
+
+Creating and Updating Plots
+
+
+
+Objective: Create apps with graphical elements that can be modified by user interaction, as well as apps with continuously adjustable components.
+
+Using plotting functions within apps
+Accessing graphical objects within apps
+Programming components to update the app continuously
+Sharing callbacks between multiple components
+Adding helper and startup functionality
+
+
+
+
+Creating Responsive Components
+
+
+
+Objective: Create robust and flexible apps with components that adapt appropriately to user actions.
+
+Adding and using local application data
+Working with grouped components
+Modifying component properties
+
+
+
+
+Managing Multiple Windows and Apps
+
+
+
+Objective: Create apps that use extra dialog windows and helper apps.
+
+Using standard dialog windows
+Catching errors
+Creating helper apps
+Passing application data between apps
+
+
+
+"
+12,Computer Vision with MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Image Processing with MATLAB and basic knowledge of image processing and computer vision concepts']","Duration: 
+1 day","Languages: 
+English, 한국어, 中文","
+This one-day course provides hands-on experience with performing computer vision tasks. Examples and exercises demonstrate the use of appropriate MATLAB® and Computer Vision System Toolbox™ functionality.
+Topics include:
+
+Importing, displaying, and annotating videos
+Detecting objects in videos
+Estimating motion of objects
+Tracking a single object or multiple objects
+Removing lens distortion and measuring planar objects
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Importing, Visualizing, and Annotating Videos
+
+
+
+Objective: Import videos into MATLAB, as well as annotate and visualize them. The focus is on using System Objects™ for performing iterative computations on video frames.
+
+Importing and displaying video files
+Highlighting objects by drawing markers and shapes like rectangles
+Combining and overlaying two images
+Performing iterative computations on video frames
+
+
+
+
+Detecting Objects
+
+
+
+Objective: Utilize machine learning and deep learning algorithms for complex object detection.
+
+Marking objects of interest in training images
+Training and using a cascade object detector
+Using a deep learning object detector
+
+
+
+
+Estimating Motion
+
+
+
+Objective: Estimate direction and strength of motion in a video sequence.
+
+Understanding motion perception in images
+Estimating motion using optical flow methods
+
+
+
+
+Tracking Objects
+
+
+
+Objective: Track single and multiple objects and estimate their trajectory. Handle occlusion by predicting object position.
+
+Tracking single objects using a Kalman Filter
+Tracking multiple objects using a GNN tracker
+
+
+
+
+Camera Calibration
+
+
+
+Objective: Remove lens distortion from images. Measure size of planar objects.
+
+Estimating intrinsic, extrinsic, and lens distortion parameters of a camera
+Visualizing the calibration error
+Removing lens distortion
+Measuring planar objects in real-world units
+
+
+
+"
+13,Control System Design with MATLAB and Simulink,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals', 'An understanding of terminology and concepts related to common control systems']","Duration: 
+2 days","Languages: 
+Deutsch, English, 日本語, 한국어","
+This course provides a general understanding of how to accelerate the design process for closed-loop control systems using MATLAB® and Simulink®.
+Topics include:
+
+Control system design overview
+System modeling
+System analysis
+Control design
+Controller implementation
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Control System Design Overview
+
+
+
+Objective: Provide an overview of the control system design process and introduce how MATLAB and Simulink fit into that process. The details of each step in the design process are covered in later chapters.
+
+Defining a control design workflow
+Linearizing a model
+Finding system characteristics
+Setting controller requirements
+Tuning controllers
+Testing controllers
+
+
+
+
+Model Representations
+
+
+
+Objective: Discuss the various formats used for representing system models. Also, highlight the pros and cons of each format.
+
+Model representations overview
+LTI objects
+Simulink models
+
+
+
+
+Parameter Estimation
+
+
+
+Objective: Use measured data to estimate the values of a Simulink model's parameters.
+
+Parameter estimation overview
+Model preparation
+Estimation process
+Parameter estimation tips
+
+
+
+
+System Identification
+
+
+
+Objective: Illustrate how to estimate system models based on measured data.
+
+System identification overview
+Data importing and preprocessing
+Model estimation
+Model validation
+
+
+
+
+System Analysis
+
+
+
+Objective: Outline the different analysis tools and functions available for understanding system behavior - such as system resonances, transient response, etc.
+
+System analysis functions
+Linear System Analyzer
+DC motor analysis
+Automation of analysis tasks
+Open loop analysis
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Linearization
+
+
+
+Objective: Discuss techniques for linearizing a Simulink model and validating the linearization results.
+
+Linearization workflow
+Operating points
+Linearization functions
+Frequency response estimation
+
+
+
+
+PID Control in Simulink
+
+
+
+Objective: Use Simulink to model and tune PID controllers.
+
+PID Workflow
+Model setup
+PID Controller block
+Automatic tuning
+Additional PID features
+
+
+
+
+Classical Control Design
+
+
+
+Objective: Use classical control design techniques to develop system controllers. Common control techniques are covered, such as PID and lead/lag controllers.
+
+Open-loop tuning
+Closed-loop analysis
+PID control
+Lead-lag control
+
+
+
+
+Response Optimization
+
+
+
+Objective: Use optimization techniques to tune model parameters based on design requirements and parameter uncertainty.
+
+Optimizing model response
+Performing sensitivity analysis
+Optimizing with parameter uncertainty
+
+
+
+
+Controller Implementation
+
+
+
+Objective: Discuss steps that might be needed to effectively implement a controller on a real system.
+
+Identifying physical and practical limitations of controllers
+Discretizing a controller
+Preparing a controller for code generation
+Converting to fixed-point data types
+
+
+
+"
+14,Deep Learning with MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Deep Learning Onramp']","Duration: 
+2 days","Languages: 
+English, Français, 日本語, 한국어","
+This two-day course provides a comprehensive introduction to practical deep learning using MATLAB®. Attendees will learn how to create, train, and evaluate different kinds of deep neural networks. The instructor-led training uses NVIDIA GPUs to accelerate network training.
+Topics include:
+
+Importing image and sequence data
+Using convolutional neural networks for image classification, regression, and other image applications
+Using long short-term memory networks for sequence classification and forecasting
+Modifying common network architectures to solve custom problems
+Improving the performance of a network by modifying training options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Learning with MATLAB is endorsed by NVIDIA's Deep Learning Institute. The Deep Learning Institute offers specialized training also powered by GPUs. Check out their industry-specific content and advanced CUDA programming courses.
+
+
+
+
+
+
+
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Transfer Learning for Image Classification
+
+
+
+Objective: Perform image classification using pretrained networks. Use transfer learning to train customized classification networks.
+
+Pretrained networks
+Image datastores
+Transfer learning
+Network evaluation
+
+
+
+
+Interpreting Network Behavior
+
+
+
+Objective: Gain insight into how a network is operating by visualizing image data as it passes through the network. Apply this technique to different kinds of images.
+
+Activations
+Feature extraction for machine learning
+
+
+
+
+Creating Networks
+
+
+
+Objective: Build convolutional networks from scratch. Understand how information is passed between network layers and how different types of layers work.
+
+Training from scratch
+Neural networks
+Convolution layers and filters
+
+
+
+
+Training a Network
+
+
+
+Objective: Understand how training algorithms work. Set training options to monitor and control training.
+
+Network training
+Training progress plots
+Validation
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Improving Network Performance
+
+
+
+Objective: Choose and implement modifications to training algorithm options, network architecture, or training data to improve network performance.
+
+Training options
+Directed acyclic graphs
+Augmented datastores
+
+
+
+
+Performing Image Regression
+
+
+
+Objective: Create convolutional networks that can predict continuous numeric responses.
+
+Transfer learning for regression
+Evaluation metrics for regression networks
+
+
+
+
+Using Deep Learning for Computer Vision
+
+
+
+Objective: Train networks to locate and label specific objects within images.
+
+Image application workflow
+Object detection
+
+
+
+
+Classifying Sequence Data
+
+
+
+Objective: Build and train networks to perform classification on ordered sequences of data, such as time series or sensor data.
+
+Long short-term memory networks
+Sequence classification
+Sequence preprocessing
+Categorical sequences
+
+
+
+
+Generating Sequences of Output
+
+
+
+Objective: Use recurrent networks to create sequences of predictions.
+
+Sequence to sequence classification
+Sequence forecasting
+
+
+
+"
+15,Design Verification with Simulink,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+1 day","Languages: 
+English, 日本語, 한국어, 中文","
+This one-day course focuses on using Simulink Design Verifier™ to ensure that a design is devoid of possible design errors, is fully tested, and satisfies necessary requirements.
+Topics include:
+
+Detecting and debugging common design errors
+Collecting model coverage
+Completing missing coverage using automatic test generation
+Proving model properties for requirements-based verification
+Handling model complexity for efficient analysis
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Understanding the Verification Workflow
+
+
+
+Objective: Become familiar with the verification workflow and learn to prepare a model and perform a simple analysis with Simulink Design Verifier.
+
+Introducing formal verification methods
+Exploring the Simulink Design Verifier workflow
+Preparing models and ensuring compatibility
+Configuring analysis options
+Generating results
+
+
+
+
+Detecting Design Errors
+
+
+
+Objective: Learn how to use design error detection to verify a model.
+
+Introducing types of design errors
+Detecting design errors
+Interpreting results and reporting
+Fixing design errors
+Using parameter tables
+
+
+
+
+Automatically Generating Tests
+
+
+
+Objective: Review coverage types and learn how to use automatic test generation to complete missing model coverage.
+
+Understanding types of coverage
+Measuring model coverage
+Increasing coverage with automatic test generation
+Interpreting results and reporting
+Applying custom conditions and objectives
+
+
+
+
+Property Proving
+
+
+
+Objective: Formalize requirements into properties and learn to use property proving to verify that a design meets its requirements.
+
+Formalizing requirements
+Proving properties
+Debugging falsified properties
+Using temporal operators
+
+
+
+
+Managing Model Complexity
+
+
+
+Objective: Identify sources of model complexity and learn techniques to improve analysis performance.
+
+Identifying sources of model complexity
+Implementing block replacements
+Handling nonlinearities
+Managing lookup table complexity
+Working with counters and timers
+
+
+
+"
+16,Image Processing with MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Basic knowledge of image processing concepts is strongly recommended']","Duration: 
+2 days","Languages: 
+English, 日本語, 中文","
+This two-day course provides hands-on experience with performing image analysis. Examples and exercises demonstrate the use of appropriate MATLAB® and Image Processing Toolbox™ functionality throughout the analysis process.
+Topics include:
+
+Importing and exporting images
+Enhancing images
+Detecting edges and shapes
+Segmenting objects based on their color and texture
+Modifying objects' shape using morphological operations
+Measuring shape properties
+Performing batch analysis over sets of images
+Aligning images with image registration
+Detecting, extracting, and matching image features
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Importing and Visualizing Images
+
+
+
+Objective: Import and visualize different image types in MATLAB. Manipulate images for streamlining subsequent analysis steps.
+
+Importing, inspecting, and displaying images
+Converting between image types
+Visualizing results of processing
+Exporting images
+
+
+
+
+Preprocessing Images
+
+
+
+Objective: Enhance images for analysis by using common preprocessing techniques such as contrast adjustment and noise filtering.
+
+Adjusting contrast
+Reducing noise with spatial filtering
+Equalizing inhomogeneous background
+Processing images in distinct blocks
+Measuring image quality
+
+
+
+
+Color and Texture Segmentation
+
+
+
+Objective: Segment objects from an image based on color and texture. Use statistical measures to characterize texture features and measure texture similarity between images.
+
+Transforming between image color spaces
+Segmenting objects based on color attributes and color difference
+Segmenting objects based on texture using nonlinear filters
+Analyzing image texture using statistical measures like contrast and correlation
+
+
+
+
+Improving Segmentation
+
+
+
+Objective: Improve binary segmentation results by refining the segmentation mask. Use interactive and iterative techniques to segment image regions.
+
+Using morphological operations to refine segmentation masks
+Segmenting images and refining results interactively
+Using iterative techniques to evolve segmentation from a seed
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Finding and Analyzing Objects
+
+
+
+Objective: Count and label objects detected in a segmentation. Measure object properties like area, perimeter, and centroids.
+
+Extracting and labeling objects in a segmentation mask
+Measuring shape properties
+Separating adjacent and overlapping objects with watershed transform
+
+
+
+
+Detecting Edges and Shapes
+
+
+
+Objective: Detect edges of objects and extract boundary pixel locations. Detect objects by shapes such as lines and circles.
+
+Detecting object edges
+Identifying objects by detecting lines and circles
+Performing batch analysis over sets of images
+
+
+
+
+Spatial Transformation and Image Registration
+
+
+
+Objective: Compare images with different scales and orientations by geometrically aligning them.
+
+Applying geometric transformations to images
+Aligning images using phase correlation
+Aligning images using point mapping
+
+
+
+
+Automating Image Registration with Image Features
+
+
+
+Objective: Detect, extract, and match sets of image features to automate image registration.
+
+Detecting and extracting features
+Matching features to estimate geometric transformation between two images
+
+
+
+"
+17,Integrating C Code with Simulink,"Level: 
+Intermediate","['Simulink Fundamentals\xa0', 'MATLAB Fundamentals\xa0', 'Knowledge of C programming']","Duration: 
+1 day","Languages: 
+Deutsch, English, 日本語, 한국어","
+This one-day course presents multiple methods for integrating C code into Simulink® models. Topics discussed include the C Caller and C Function blocks, Legacy Code Tool for wrapping external C functions into Simulink, and manually written C MEX S-functions. This course is intended for intermediate to advanced Simulink users.
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Integrating External C Code Using Simulink Blocks
+Objective: Integrate C code into Simulink models using the C Caller and C Function blocks.
+
+Integrating algorithmic C code
+Integrating C code with custom data types
+Integrating code with states
+Sharing custom C code blocks
+
+Creating S-Functions from Legacy Code
+Objective: Integrate C code into a Simulink model using automated tools.
+
+Calling external C functions with Legacy Code Tool
+Handling states
+Sharing compiled S-functions
+
+Writing Wrapper S-Functions
+Objective: Integrate C code into a Simulink model by manually writing C MEX S-functions.
+
+Writing C MEX S-functions
+Calling external code from C MEX S-functions
+Work vectors
+Debugging C MEX S-functions
+Multirate C MEX S-functions
+
+Deploying Integrated C Code
+Objective: Explore the procedures and limitations for automatically generating code with Simulink Coder™.
+
+Generating code from C Caller and C Function blocks
+Generating code from C MEX S-functions
+Function inlining
+Integrating target-specific code
+
+C Code Integration Methods Review
+Objective: Review code integration methods and discuss the pros and cons of each.
+
+Review of all methods of code integration
+How to choose a code integration method
+
+Appendix A: Integrating C++ Code
+Objective: Create S-functions that are defined using the C++ language.
+
+Review of work vectors
+Unit delay object
+Creating a C++ S-function
+
+Appendix B: C Code Integration with the MATLAB® Function Block
+Objective: Call external C functions from inside the MATLAB Function block.
+
+Calling external C routines from a MATLAB Function block
+
+Appendix C: Integrating C Code with S-Function Builder
+Objective: Create S-functions that call external C code using S-Function Builder.
+
+Writing a C MEX S-function with S-Function Builder
+Calling an external C routine with S-Function Builder
+
+Appendix D: Integrating C Code with Stateflow®
+Objective: Call external C functions within action and conditions statements in Stateflow charts.
+
+Importing external C code to Stateflow®
+Calling C code from C action language charts
+Calling C code from MATLAB® action language charts
+
+
+
+"
+18,Machine Learning with MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+2 days","Languages: 
+English, Español, 日本語, 한국어","
+This two-day course focuses on data analytics and machine learning techniques in MATLAB® using functionality within Statistics and Machine Learning Toolbox™ and Deep Learning Toolbox™. The course demonstrates the use of unsupervised learning to discover features in large data sets and supervised learning to build predictive models. Examples and exercises highlight techniques for visualization and evaluation of results. 
+Topics include:
+
+Organizing and preprocessing data
+Clustering data
+Creating classification and regression models
+Interpreting and evaluating models
+Simplifying data sets
+Using ensembles to improve model performance
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Importing and Organizing Data
+
+
+
+Objective: Bring data into MATLAB and organize it for analysis, including normalizing data and removing observations with missing values.
+
+Data types
+Tables
+Categorical data
+Data preparation
+
+
+
+
+Finding Natural Patterns in Data
+
+
+
+Objective: Use unsupervised learning techniques to group observations based on a set of explanatory variables and discover natural patterns in a data set.
+
+Unsupervised learning
+Clustering methods
+Cluster evaluation and interpretation
+
+
+
+
+Building Classification Models
+
+
+
+Objective: Use supervised learning techniques to perform predictive modeling for classification problems. Evaluate the accuracy of a predictive model.
+
+Supervised learning
+Training and validation
+Classification methods
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Improving Predictive Models
+
+
+
+Objective: Reduce the dimensionality of a data set. Improve and simplify machine learning models.
+
+Cross validation
+Hyperparameter optimization
+Feature transformation
+Feature selection
+Ensemble learning
+
+
+
+
+Building Regression Models
+
+
+
+Objective: Use supervised learning techniques to perform predictive modeling for continuous response variables.
+
+Parametric regression methods
+Nonparametric regression methods
+Evaluation of regression models
+
+
+
+
+Creating Neural Networks
+
+
+
+Objective: Create and train neural networks for clustering and predictive modeling. Adjust network architecture to improve performance.
+
+Clustering with Self-Organizing Maps
+Classification with feed-forward networks
+Regression with feed-forward networks
+
+
+
+"
+19,MATLAB for Data Processing and Visualization,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+1 day","Languages: 
+English, 한국어","
+This one-day course focuses on importing and preparing data for data analytics applications. The course is intended for data analysts and data scientists who need to automate the processing, analysis, and visualization of data from multiple sources.
+Topics include:
+
+Importing data
+Processing data
+Customizing visualizations
+Working with irregular data
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Importing Data
+
+
+
+Objective: Read text files that contain a mixture of data types, delimiters, and headers.
+
+Import a mixture of data types from arbitrarily formatted text files
+Import only required columns of data from a text file
+Import and merge data from multiple files
+
+
+
+
+Processing Data
+
+
+
+Objective: Process raw imported data by extracting, manipulating, aggregating, and counting portions of data.
+
+Process data with missing elements
+Create and modify categorical arrays
+Aggregate, bin, and count groups of data
+
+
+
+
+Customizing Visualizations
+
+
+
+Objective: Annotate and modify standard plots to produce informative customized graphics.
+
+Determine properties of graphics objects and their associated values
+Locate and manipulate graphics objects
+Customize plots by modifying properties of graphics objects
+
+
+
+
+Working with Irregular Data
+
+
+
+Objective: Import and visualize scattered data from text files with irregular formatting.
+
+Parse text files to determine formatting
+Import data from separate sections of a text file
+Extract data from container variables
+Interpolate irregularly spaced three-dimensional data
+Visualize three-dimensional data in two and three dimensions
+
+
+
+"
+20,MATLAB Programming Techniques,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+2 days","Languages: 
+Deutsch, English, Français, 한국어","
+This two-day course provides hands-on experience using the features in the MATLAB® language to write efficient, robust, and well-organized code. These concepts form the foundation for writing full applications, developing algorithms, and extending built-in MATLAB capabilities. Details of performance optimization, as well as tools for writing, debugging, and profiling code are covered. 
+Topics include:
+
+Structuring data
+Managing data efficiently
+Utilizing development tools
+Structuring code
+Creating robust applications
+Verifying application behavior
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Structuring Data
+
+
+
+Objective: Explore choices for storing data within a MATLAB application.
+
+Data types
+Concatenation and conversion
+Cell and structure arrays
+Extracting data
+
+
+
+
+Managing Data Efficiently
+
+
+
+Objective: Use common techniques for improving performance when storing, accessing, and processing data.
+
+Preallocation
+Vectorization
+Memory management
+Objects and classes
+
+
+
+
+Utilizing Development Tools
+
+
+
+Objective: Use integrated tools to manage code, diagnose problems, debug applications, and measure performance.
+
+Managing files with Projects
+Finding potential problems in code
+Debugging code
+Assessing code performance
+Using Source Control
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Creating Robust Applications
+
+
+
+Objective: Create robust applications that withstand unexpected input and produce meaningful errors. Use built-in MATLAB functions and programming constructs, and employ standard techniques for handling error conditions.
+
+Creating flexible function interfaces
+Checking for warning and error conditions
+Working with the try-catch construct and MException objects
+
+
+
+
+Structuring Code
+
+
+
+Objective: Modularize code into readable and maintainable functions. Explore the different function types available in the MATLAB language and the tradeoffs associated with each type. See how function type affects the performance and reliability of the code.
+
+Private functions
+Local functions
+Nested functions
+Function handles
+Precedence rules
+Comparison of function types
+
+
+
+
+Verifying Application Behavior
+
+
+
+Objective: Create tests to verify that code meets requirements.
+
+Writing test scripts
+Running test scripts
+Using test functions
+
+
+
+
+Appendix A: Creating a Toolbox
+
+
+
+Objective: Package code and documentation into a custom toolbox for distribution to other users.
+
+Creating documentation
+Packaging the toolbox
+Distributing the toolbox
+
+
+
+"
+21,Object-Oriented Programming with MATLAB,"Level: 
+Intermediate",['MATLAB Programming Techniques'],"Duration: 
+2 days","Languages: 
+Deutsch, English, Français, 한국어","
+Attendees will learn to use object-oriented programming techniques to develop and maintain complex MATLAB® applications. In addition, ideas from a test-driven development approach to foster software quality and flexibility are introduced.
+Topics include:
+
+Defining robust, intuitive, and reusable custom data types
+Creating maintainable and extensible applications via inheritance and aggregation
+Making applications reliable and flexible with unit tests
+Enabling object synchronization using events and listeners
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating Custom Data Types
+
+
+
+Objective: Organize your files into packages. Learn some of the basic techniques and benefits of object-oriented programming and experience the differences between procedural and object-oriented programming.
+
+Creating a namespace by storing multiple files in a package
+Encapsulating data and functionality into a single class definition file
+Documenting custom data types
+Creating and using variables of custom data types
+
+
+
+
+Designing a MATLAB Class
+
+
+
+Objective: Make objects reliable by separating interface and implementation. Enhance code maintainability by avoiding code duplication. Customize standard operations for your classes.
+
+Defining safe interactions via data access methods
+Designing the public class interface with property and method attributes
+Customizing standard operators for your class
+Avoiding code duplication through internal refactoring
+
+
+
+
+Building Class Hierarchies
+
+
+
+Objective: Relate multiple similar classes via a common superclass. Extend the generic superclass by specializing its behavior in the subclasses.
+
+Creating a superclass via abstraction
+Inheriting from a superclass
+Defining abstract properties and methods
+Implementing specialized behavior in subclasses
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Facilitating Multiple References
+
+
+
+Objective: Embed one class into another via aggregation. Distinguish the use cases for pass-by-value vs. pass-by-reference behavior. Define a class that exhibits reference behavior.
+
+Creating a viewer class containing a data class
+Writing context-sensitive (polymorphic) code
+Referencing one data object from multiple viewer objects
+Choosing between handle and value classes
+
+
+
+
+Writing Unit Tests
+
+
+
+Objective: Guarantee correct behavior by writing formal tests for the corresponding unit of code. Use the unit-testing framework provided within MATLAB. Enhance the quality and flexibility of your software.
+
+Overview of the MATLAB unit testing framework
+Writing a test method
+Creating a test environment using setup and teardown methods
+Parameterizing a test method
+Testing for error conditions
+Aggregating and running suites of tests
+
+
+
+
+Synchronizing Objects
+
+
+
+Objective: Automatically react to property changes using predefined events, listeners, and callbacks. Trigger function calls based on custom events.
+
+Events, listeners, and callbacks
+Using predefined property events
+Querying class meta information
+Defining property listeners
+Implementing a callback function
+Defining custom events and their callbacks
+
+
+
+"
+22,Optimization Techniques in MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Knowledge of linear algebra and multivariate calculus is helpful']","Duration: 
+1 day","Languages: 
+Deutsch, English, 한국어","
+This one-day course introduces applied optimization in the MATLAB® environment, focusing on using Optimization Toolbox™ and Global Optimization Toolbox.
+Topics include:
+
+Running optimization problems in MATLAB
+Specifying objective functions and constraints
+Choosing solvers and improving performance
+Global and multiobjective optimization
+
+
+
+
+
+
+
+This program has been approved by GARP and qualifies for 7 GARP CPD credit hours. If you are a Certified FRM or ERP, please record this activity in your credit tracker at https://www.garp.org/cpd.
+
+
+
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Running an Optimization Problem
+
+
+
+Objective: Understand the basic structure and process of solving optimization problems effectively. Use interactive tools to define and solve optimization problems.
+
+Identifying the problem components
+Running an optimization using the Live Editor Optimization Task
+Applying the optimization process
+Using optimization functions
+
+
+
+
+Specifying Objective Functions and Constraints
+
+
+
+Objective: Write an optimization problem. Use problem-based workflow to arrive at a solution.
+
+Using the problem-based workflow
+Specifying objective functions and constraints
+Identifying different types of constraints
+
+
+
+
+Choosing a Solver and Improving Performance
+
+
+
+Objective: Select an appropriate solver and algorithm by considering the type of optimization problem to be solved. Interpret the output from the solver and diagnose the progress of an optimization.
+
+Classifying the objective
+Choosing a solver and algorithm
+Examining and interpreting the result
+Providing derivative information
+
+
+
+
+Global and Multiobjective Optimization
+
+
+
+Objective: Use Global Optimization Toolbox functionality to solve problems where classical algorithms fail or work inefficiently. Solve problems with many objectives.
+
+Finding the global minimum
+Using genetic algorithms, direct search methods and surrogate optimization
+Use multiobjective solvers
+
+
+
+"
+23,Predictive Maintenance with MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+2 days","Languages: 
+Deutsch, English, 日本語, 한국어, 中文","
+This two-day course focuses on data analytics, signal processing, and machine learning techniques needed for predictive maintenance and condition monitoring workflows. Attendees will learn how to use MATLAB to import data, extract features, and estimate the condition and remaining useful life of equipment.
+Topics include:
+
+Importing and organizing data
+Unsupervised anomaly detection
+Creating supervised fault classification models
+Preprocessing to improve data quality
+Extracting time and frequency domain features
+Estimating Remaining Useful Life (RUL)
+Interactive workflows with apps
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Importing Data and Processing Data
+
+
+
+Objective: Bring data into MATLAB and organize it for analysis, including handling missing values. Process raw imported data by extracting and manipulating portions of data.
+
+Store data using MATLAB data types
+Import with datastores
+Process data with missing elements
+Process big data with tall arrays
+
+
+
+
+Finding Natural Patterns in Data
+
+
+
+Objective: Use unsupervised learning techniques to group observations based on a set of condition indicators and discover natural patterns in a data set.
+
+Find natural clusters within data
+Perform dimensionality reduction
+Evaluate and interpret clusters within data
+
+
+
+
+Building Classification Models
+
+
+
+Objective: Use supervised learning techniques to perform predictive modelling for classification problems. Evaluate the accuracy of a predictive model.
+
+Classify with the Classification Learner app
+Train classification models from labeled data
+Validate trained classification models
+Improve performance with hyperparameter optimization
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Exploring and Analyzing Signals
+
+
+
+Objective: Interactively explore and visualize signal processing features in data.
+
+Import, visualize, and browse signals to gain insights
+Make measurements on signals
+Compare multiple signals in the time and frequency domains
+Perform interactive spectral analysis
+Extract regions of interest
+Generate MATLAB scripts for automation
+
+
+
+
+Preprocessing Signals to Improve Data Set Quality and Generate Features
+
+
+
+Objective: Learn techniques to clean signal sets with operations such as resampling, removing outliers, and filling gaps. Interactively generate and rank features.
+
+Use resampling to handle nonuniformly sampled signals
+Fill gaps in uniformly sampled signals
+Perform resampling to ensure common time base across signals
+Use the Signal Analyzer app to design and apply filters
+Use File Ensemble Datastore to import data
+Use the Diagnostic Feature Designer app to automatically generate and rank features
+Perform machinery diagnosis using envelope spectrum
+Locate outliers and replace with acceptable samples
+Detect changepoints and perform automatic signal segmentation
+
+
+
+
+Estimating Time to Failure
+
+
+
+Objective: Explore data to identify features and train decision models to predict remaining useful life.
+
+Select condition indicators
+Use lifespan data to estimate remaining useful life using survival models
+Use run-to-threshold data to estimate remaining useful life using degradation models
+Use run-to-failure data to estimate remaining useful life using similarity models
+
+
+
+"
+24,Processing Big Data with MATLAB,"Level: 
+Intermediate",['MATLAB for Data Processing and Visualization'],"Duration: 
+1 day","Languages: 
+English, 한국어","
+This one-day course focuses on adapting existing algorithms to work with a collection of data files or a single file that is too big to fit in memory. Learn to represent big data in MATLAB®, adjust existing code to work efficiently with it, and scale up the analysis to take advantage of your own computing resources or a cloud. 
+Topics include:
+
+Creating datastores to read from data sources
+Representing and manipulating big data using tall arrays
+Importing custom data formats and applying custom functions to tall arrays
+Working with clusters of computers and cloud environments
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Prototyping Big Data Algorithms
+
+
+
+Objective: Applying existing algorithms to data sets that do not fit into memory.
+
+Importing data using datastores
+Creating tall arrays
+Running algorithms on tall arrays
+Optimizing code for tall arrays
+Reading data from cloud environments
+
+
+
+
+Handling Custom Data and Algorithms
+
+
+
+Objective: Importing custom formatted data and applying algorithms that are not implemented for tall arrays
+
+Importing custom formatted data using file datastores and custom datastores
+Partially importing single files
+Applying transformations, reductions, and moving window operations to tall arrays
+
+
+
+
+Working with Clusters and Clouds
+
+
+
+Objective: Run big data algorithms on a cluster of computers or on cloud environments.
+
+Local and remote clusters
+Cluster discovery and connection
+Setup of a cluster on a cloud environment
+File access considerations
+
+
+
+"
+25,Reinforcement Learning in MATLAB and Simulink,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals ']","Duration: 
+1 day","Languages: 
+English","
+This one-day course introduces reinforcement learning in the MATLAB® and Simulink® environments, focusing on using the Reinforcement Learning Toolbox™. 
+Topics include:
+
+Environment and Rewards
+Policy and Agent
+Neural Networks and Training
+Deployment
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Environment and Rewards
+Objective: Set up an environment and shape rewards in Simulink or MATLAB.
+
+Set up environment in Simulink
+Write a reward function
+Set up an agent using Simulink and MATLAB
+Connect agent and environment
+
+Policy and Agent
+Objective: Create an policy representation and construct an agent.
+
+Represent a policy with a neural network
+Create a reinforcement learning agent in MATLAB
+Specify simulation options to run a simulation
+
+Neural Networks and Training
+Objective: Assemble a neural network for a policy representation and train an agent.
+
+Assemble a neural network
+Deep Network Designer app
+Training an agent
+Reinforcement Learning Designer app
+
+Deployment
+Objective: Generate code from a trained agent.
+
+Generate code
+Validation of code
+
+
+
+"
+26,RF System Design Using MathWorks Tools,"Level: 
+Intermediate","['Signal Processing with Simulink', 'A good understanding of RF theory']","Duration: 
+2 days",,"
+This two-day course shows how to use RF Blockset™ and RF Toolbox™ for modeling wireless front ends. You will learn when to use two different modeling paradigms to speed up the simulation of RF signals: Equivalent Baseband and Circuit Envelope. The fundamentals of the simulation techniques will be discussed, and best modeling practices will be highlighted.
+
+
+
+Topics include:
+
+Importing S-parameters and modeling linear elements
+Simulating thermal and phase noise
+Modeling amplifiers and mixers operating in nonlinear conditions
+Developing custom models
+Integrating antennas and arrays in RF transceivers
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+What is RF Blockset?
+
+
+
+Objective: Give an overview of RF simulation using MathWorks tools; the goal of this section is to familiarize the audience with RF Blockset and its terminology. Attendees who never used RF Blockset before will be able to recognize which applications can be modeled with RF Blockset and which approach is most suitable.
+
+Describe what can be done with RF Blockset
+Describe the benefits of using RF simulation techniques
+Articulate why and when RF Blockset is needed
+
+
+
+
+Fundamentals of RF Simulation
+
+
+
+Objective: Describe the fundamentals of Equivalent Baseband and Circuit Envelope simulation techniques. We will provide an overview of the underlying simulation techniques in the RF Blockset context. Attendees will build their first RF Blockset model, configure the simulation set up and run a simulation.
+
+Understand the RF simulation techniques supported by RF Blockset
+Decide when to use Equivalent Baseband or Circuit Envelope
+Build an RF model starting from high-level specifications
+
+
+
+
+Importing S-Parameters and Modeling Linear Elements
+
+
+
+Objective: Describe how to model linear elements in RF Blockset and RF Toolbox. The focus of this section is how to import S-parameters in the form of Touchstone files and how to perform a time-domain simulation using frequency-defined elements. Attendees will compare results obtained from both the Circuit Envelope and Equivalent Baseband simulation techniques for a handful of passive lumped and distributed elements, and they will gain insight into what simulation technology will work best for their application.
+
+Understand the available techniques to simulate S-parameters in the time domain
+Choose the best modelling approach for S-parameters
+Assess the quality of S-parameters simulation results
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Fundamentals of Noise Simulation
+
+
+
+Objective:
+
+Follow best practices for modeling thermal noise
+Capture the effects of phase noise
+Understand the impact of frequency conversion on noise
+Validate the time-domain results of noise simulation
+
+
+
+
+Modeling Nonlinear Operation
+
+
+
+Objective: Introduce the simulation of nonlinear components in RF Blockset, focusing amplifiers and mixers. Attendees will learn how to describe and validate the impact of nonlinear characteristics. Attendees will learn best practices for modeling spectral regrowth, saturation, and interferers.
+
+Modeling even and odd order nonlinearities
+Modeling of AM/AM and AM/PM curves
+Manipulating interferers, spurs, and multi-carrier signals
+Modeling Power Amplifiers including memory effects
+
+
+
+
+Building Tunable Networks and Developing Custom Models
+
+
+
+Objective: Describe how to build custom models in RF Blockset Circuit Envelope using the Simscape language and combining it with Simulink modeling capabilities.
+
+Build adaptive RF systems including control logic
+Use Simscape language to build custom models in the domain of voltages and currents
+Understand simulation results of custom models
+
+
+
+"
+27,Sensor Fusion for Object Tracking in MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals; basic knowledge of tracking concepts'],"Duration: 
+1 day","Languages: 
+English, Français","
+This one-day course provides hands-on experience with developing and testing localization and tracking algorithms. Examples and exercises demonstrate the use of appropriate MATLAB® and Sensor Fusion and Tracking Toolbox™ functionality.
+
+
+
+Topics include:
+
+Localization for orientation and position
+Scene generation and sensor detection import
+Filters and motion models
+Data association
+Multi-object trackers
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Localization for Orientation and Position
+
+
+
+Objective: Fuse IMU and GPS sensor data to estimate position and orientation.
+
+Model measurements from accelerometers, gyroscopes, magnetometers, and GPS
+Fuse sensor data to estimate the pose in terms of position, velocity, and orientation
+Visualize the pose estimation and plot platforms and trajectories
+
+
+
+
+Scene Generation and Detection Import
+
+
+
+Objective: Import and process detections or generate scenarios used in multi-object trackers.
+
+Preprocess and package collected sensor detections
+Create a tracking scenario with multiple sensors and platforms
+Define waypoint or kinematic trajectories
+Customize sensor parameters
+Generate detections used in sensor fusion algorithms
+
+
+
+
+Filters and Motion Models
+
+
+
+Objective: Select and tune filters and motion models based on tracking requirements.
+
+Evaluate filters against scenario requirements
+Compare and contrast different motion models
+Configure an Interacting Multiple Model (IMM) filter to track different maneuvers
+
+
+
+
+Data Association
+
+
+
+Objective: Determine the appropriate data association method for different tracking situations.
+
+Select from among Global Nearest Neighbor (GNN), Joint Probabilistic Data Association (JPDA), Track-Oriented Multiple Hypothesis (TOMHT), and other data association methods
+Determine how multiple detections are assigned to different tracks
+
+
+
+
+Multi-Object Trackers
+
+
+
+Objective: Create multi-object trackers to fuse information from multiple sensors such as vision, radar, and lidar.
+
+Configure trackers and parameters
+Perform track association and management
+Visualize the tracked objects
+
+
+
+
+Appendix A: Trackers for Passive Sensors
+
+
+
+Objective: Create multi-object trackers and fusion systems that receive angle-only or range-only measurements from passive sensor systems.
+
+Triangulate multiple line-of-sight detections
+Perform static fusion of passive synchronous sensor detections
+Track with range-only measurements
+Track with angle-only measurements
+
+
+
+"
+28,Signal Preprocessing and Feature Extraction for Data Analytics with MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals'],"Duration: 
+1 day","Languages: 
+Deutsch, English, 日本語, 한국어, 中文","
+This one-day course shows how to use MATLAB®, Signal Processing Toolbox™, and Wavelet Toolbox™ to preprocess time-based signals and extract key features in the time and frequency domains. This course is intended for data scientists and engineers analyzing signals (time series) for data analytics applications. No prior knowledge on signal processing is needed for this course.  Topics include:
+
+Creating, importing, and visualizing signals
+Preprocessing to improve data quality, including filling data gaps, resampling, smoothing, aligning signals, finding and removing outliers, and handling non-uniformly sampled signals
+Extracting features in the time and frequency domains, including finding patterns in signals, finding change points, locating peaks, and identifying trends
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Explore and Analyze Signals (Time Series) in MATLAB
+
+
+
+Objective: Learn to easily import and visualize multiple signals or time series data sets to gain insights into the features and trends in the data.
+
+Import, visualize, and browse signals to gain insights
+Make measurements on signals
+Compare multiple signals in the time and frequency domain
+Perform interactive spectral analysis
+Extract regions of interest for focused analysis
+Recreate analysis with auto-generated MATLAB scripts
+
+
+
+
+Preprocess Signals to Improve Data Set Quality
+
+
+
+Objective: Learn techniques to clean signal sets with operations such as resampling, removing outliers, and filling gaps.
+
+Perform resampling to ensure a common time base across signals
+Work with non-uniformly sampled data
+Find gaps in data and remove or fill gaps
+Remove noise and unwanted frequency content
+Perform wavelet denoising
+Use the envelope spectrum to perform fault analysis
+Locate outlier values in data and replace them with acceptable data
+Locate signal changepoints and use boundaries to automatically create signal segments
+
+
+
+
+Extract Features from Signals
+
+
+
+Objective: Apply different techniques in time and frequency domains to extract features. Become familiar with the spectral analysis tools in MATLAB and explore ways to bring out features for multiple signals.
+
+Locate peaks
+Locate desired signals from patterns in the time and spectral domains
+Use spectral analysis to extract features from signals
+Perform classification using supervised learning
+Use the Classification Learner app to interactively train and evaluate classification algorithms
+
+
+
+"
+29,Signal Processing with MATLAB,"Level: 
+Intermediate","['MATLAB Fundamentals or equivalent experience using MATLAB, and a good understanding of signal processing theory, including linear systems, spectral analysis, and filter design']","Duration: 
+2 days","Languages: 
+English, 한국어, 中文","
+This two-day course shows how to analyze signals and design signal processing systems using MATLAB®, Signal Processing Toolbox™, and DSP System Toolbox™.
+Topics include:
+
+Creating and analyzing signals
+Performing spectral analysis
+Designing and analyzing filters
+Designing multirate filters
+Designing adaptive filters
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Signals in MATLAB
+
+
+
+Objective: Generate sampled and synthesized signals from the command line and visualize them. Create noise signals for a given specification. Perform signal processing operations like resampling, modulation, and correlation.
+
+Creating discrete signals
+Sampling and resampling
+Visualizing signals
+Modeling noise
+Performing resampling, modulation, and correlation
+Generating streaming signals
+
+
+
+
+Spectral Analysis
+
+
+
+Objective: Understand different spectral analysis techniques and the use of windowing and zero padding. Become familiar with the spectral analysis tools in MATLAB and explore nonparametric (direct) and parametric (model-based) techniques of spectral analysis.
+
+Discrete Fourier transform
+Windowing and zero padding
+Power spectral density estimation
+Time-varying spectra
+Using a spectrum analyzer in MATLAB
+
+
+
+
+Linear Time Invariant Systems
+
+
+
+Objective: Represent linear time-invariant (LTI) systems in MATLAB and compute and visualize different characterizations of LTI systems.
+
+LTI system representations
+z-transform
+Frequency and impulse response
+Visualizing filter properties
+Applying filters to finite and streaming signals
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Filter Design
+
+
+
+Objective: Design filters interactively using the Filter Design and Analysis app. Design filters from the command line using filter specification objects.
+
+Filter specifications
+Interactive filter design
+Common filter design functions
+Filter design with filter specification objects
+Reducing filter delay
+Frequency-domain filtering
+
+
+
+
+The Signal Analysis App
+
+
+
+Objective: Learn to use a powerful all-in-one app for importing and visualizing multiple signals, performing spectral analysis on them, and designing and applying filters to the signals. Make simple statistical and cursor measurements on signals.
+
+Browse signals and make simple measurements
+Perform interactive spectral analysis
+Design and apply filters to signals interactively
+
+
+
+
+Multirate Filters
+
+
+
+Objective: Understand principles of polyphase multirate filter design. Design multirate interpolating and decimating filters. Design multistage and narrow-band filters.
+
+Downsampling and upsampling
+Noble identities and polyphase FIR structures
+Polyphase decimators and interpolators
+Design multistage and interpolated FIR filters
+
+
+
+
+Adaptive Filter Design
+
+
+
+Objective: Design adaptive filters for system identification and noise cancellation.
+
+Basics of adaptive filtering
+Perform system identification
+Perform noise cancellation
+Improve adaptive filter efficiency
+
+
+
+"
+30,Signal Processing with Simulink,"Level: 
+Intermediate",['MATLAB Fundamentals and basic knowledge of digital signal processing'],"Duration: 
+3 days","Languages: 
+Deutsch, English, 한국어","
+This three-day course, targeted toward new users of Simulink®, uses basic modeling techniques and tools to demonstrate how to develop Simulink block diagrams for signal processing applications. 
+Topics include:
+
+What is Simulink?
+Using the Simulink interface
+Modeling single-channel and multi-channel discrete dynamic systems
+Implementing sample-based and frame-based processing
+Modeling mixed-signal (hybrid) systems
+Developing custom blocks and libraries
+Modeling condition-based systems
+Performing spectral analysis with Simulink
+Integrating filter designs into Simulink
+Modeling multirate systems
+Incorporating external code
+Automating modeling tasks
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+What is Simulink?
+
+
+
+Objective: Get an introduction to Simulink.
+
+What is Simulink?
+Benefits of using Simulink
+Simulink add-ons
+A look at a Simulink model
+
+
+
+
+Creating and Simulating a Model
+
+
+
+Objective: Explore the Simulink interface and block libraries. Build a simple model and analyze the simulation results.
+
+Creating and editing a Simulink model
+Defining system inputs and outputs
+Simulating the model and analyzing results
+
+
+
+
+Modeling Discrete Dynamic Systems
+
+
+
+Objective: Model discrete dynamic systems, and visualize frame-based signals and multichannel signals using a scope.
+
+Modeling a discrete system with basic blocks
+Finding sample times of block outputs
+Using frames in your model
+Using buffers
+Frames vs. multichannel signals
+Viewing frame-based signals
+Behavior of delay blocks with frame-based signals
+Multichannel frame-based signals
+
+
+
+
+Modeling Logical Constructs
+
+
+
+Objective: Model logical expressions. See how zero-crossing detection is used in Simulink and model simple logic in Simulink using MATLAB code.
+
+Modeling logical expressions
+Modeling conditional signal routing
+Understanding zero-crossing detection
+Modeling with the MATLAB Function block
+
+
+
+
+From Algorithm to Model
+
+
+
+Objective: Create a model from an algorithm specification.
+
+Modeling from algorithmic specifications
+Iterative algorithm development through modeling and simulation
+Verifying models against specified algorithms
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Mixed-Signal Models
+
+
+
+Objective: Model mixed-signal systems.
+
+What is a mixed-signal model?
+Modeling an ADC with aperture jitter and nonlinearity
+Case study: Modeling TI's ADS62P29 ADC
+
+
+
+
+Simulink Solvers
+
+
+
+Objective: Choose the right solver for a Simulink model.
+
+Understanding the Simulink solver
+Solving simple models
+Solving models with discrete and continuous states
+Solving models with multiple rates
+Fixed-step and variable-step solvers
+Choosing a continuous-state system solver
+Handling zero crossings
+Handling algebraic loops
+
+
+
+
+Subsystems and Libraries
+
+
+
+Objective: Create custom blocks in Simulink, apply masks, and develop custom libraries.
+
+Creating subsystems
+Understanding virtual and atomic subsystems
+Using a subsystem as a model component
+Masking subsystems
+Creating custom block libraries
+Working with and modifying library blocks
+Adding custom libraries to the Simulink Library Browser
+Creating configurable subsystems
+
+
+
+
+Conditional Subsystems
+
+
+
+Objective: Model systems with parts that are executed conditionally.
+
+Conditionally executed subsystems
+Modeling condition-driven systems with enabled subsystems
+Modeling condition-driven systems with triggered subsystems
+Working with an example using the AGC model
+
+
+
+
+Spectral Analysis
+
+
+
+Objective: Perform spectral analysis in the Simulink environment, and use spectrum computation in an algorithm.
+
+Performing spectral analysis with the Spectrum Scope block
+Choosing spectral analysis parameters
+Analyzing power spectrum of a motor noise
+Building a spectral classifier of speech
+Determining the frequency response of a discrete system
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Designing and Applying Filters
+
+
+
+Objective: Incorporate filters in a model, and explore different ways filters can be designed and implemented in a Simulink model.
+
+Designing filters in Simulink
+Converting filters to fixed point
+
+
+
+
+Multirate Systems
+
+
+
+Objective: Model multirate systems. Resample data and explore multirate filter blocks.
+
+Modeling multirate systems
+Exploring blocks for multirate signal processing
+Resampling oversampled data
+Designing and implementing anti-imaging and anti-aliasing filters
+Using multirate filter blocks
+Case study: Converting professional audio to CD format
+Converting the design to fixed point
+
+
+
+
+Incorporating External Code
+
+
+
+Objective: Import or incorporate custom or external MATLAB and C code into a Simulink model.
+
+Working with custom and external code considerations
+Incorporating MATLAB code and C code with the MATLAB Function block
+
+
+
+
+Combining Models into Diagrams
+
+
+
+Objective: Explore model integration, an important topic for large-scale projects in which several developers are developing different portions of a large system.
+
+Exploring model referencing and subsystems
+Setting up a model reference
+Setting up model reference arguments
+Exploring model reference simulation modes
+Viewing signals in referenced models
+Browsing the model reference dependency graph
+
+
+
+
+Automating Modeling Tasks
+
+
+
+Objective: Control and run Simulink models from the MATLAB command line.
+
+Automating test runs
+Checking and modifying parameter settings
+Finding blocks with specific parameter values
+Constructing and modifying block diagrams
+
+
+
+"
+31,Simulation-Based Testing with Simulink,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+1 day","Languages: 
+Deutsch, English, Italiano, 日本語, 한국어, 中文","
+This one-day course describes techniques for testing Simulink® model behavior against system requirements using Simulink Test™, Requirements Toolbox™, and Simulink Coverage™.
+Topics include:
+
+Identifying the role of verification and validation in Model-Based Design
+Creating test cases for Simulink models
+Analyzing simulation results to verify model behavior
+Automating testing activities and managing results
+Automatically generating artifacts to communicate results
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Verification and Validation in Model-Based Design
+
+
+
+Objective: Introduce verification and validation in the Simulink environment and discuss how it fits in to a typical project workflow using Model-Based Design.
+
+Continuous test and verification
+Types of verification
+Electronic throttle control project
+
+
+
+
+Developing Test Cases
+
+
+
+Objective: Create time-based and logic-based test cases for a Simulink model.
+
+Defining test cases
+Generating test harnesses
+Creating and importing test inputs
+Incorporating logic in tests
+
+
+
+
+Analyzing Test Results
+
+
+
+Objective: Analyze test results of a Simulink simulation, both during and after the simulation.
+
+Performing requirements-based assessments
+Logging, inspecting, and comparing test results
+Collecting model coverage
+
+
+
+
+Building Test Suites
+
+
+
+Objective: Create repeatable groups of tests and automatically generate reports from the test results.
+
+Creating test files
+Configuring simulation, baseline, and equivalence tests
+Viewing and documenting test results
+
+
+
+"
+32,Simulink Model Management and Architecture,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+2 days","Languages: 
+Deutsch, English, Español, Français, Italiano, 日本語, 한국어, 中文","
+This two-day course describes techniques for applying Model-Based Design in a common design workflow. It provides guidance on managing and sharing Simulink® models when working in a large-scale project environment.
+Topics include:
+
+Implementing interface control of Simulink subsystems and models
+Managing requirements in Simulink models
+Partitioning models using Simulink subsystems, libraries, and model references
+Managing a model and all its dependencies
+Addressing model scalability and performance concerns
+Establishing and enforcing modeling standards
+Documenting and sharing a Simulink model
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Model-Based Design
+Objective: Get a brief overview of how Simulink models can be used in a traditional design process. Discuss where the material covered in this course fits into that process.
+Requirements Linking and Interface Control
+Objective: Link a Simulink model to system requirements, illustrate data flow, and define system interfaces.
+
+Component stubs
+Requirements linking
+Component interfaces
+Bus objects
+
+Model Architecture
+Objective: Discuss the pros and cons of the different features used for organizing a Simulink model into separate components.
+
+System component considerations
+Virtual subsystems
+Atomic subsystems
+Subsystem references
+Model references
+Libraries
+Component variants
+
+Project Management
+Objective: Discuss how to effectively organize a project (containing models, data, documentation, etc.) and perform configuration management tasks.
+
+Project setup
+File shortcuts and labels
+File dependencies and impact
+Source control integration
+File differences
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Data Management
+Objective: Explore the data dependencies of a Simulink model and learn best practices for managing a Simulink model's data.
+
+Workspace precedence
+Parameter management
+Saving and loading data
+Data dictionaries
+
+Model Scalability
+Objective: Understand data objects, partition data in dictionaries, create reference projects and configurations sets to organize large projects.
+
+Data objects
+Reference data dictionaries
+Reference configuration sets
+Data partitioning
+Reference projects
+
+Model Performance
+Objective: Learn how to improve simulation performance, use acceleration modes and understand their tradeoffs.
+
+Simulink Profiler
+Simulation modes
+Comparing performance
+Performance Advisor
+
+Modeling Standards
+Objective: Explore how to set up and enforce modeling standards, check for common modeling errors, and optimize model performance.
+
+Modeling standards
+Model Advisor
+Reporting results
+Additional Simulink advisors
+Templates
+
+Reporting
+Objective: Discuss the methods of automatically creating reports and documentation from Simulink models.
+
+Web views
+Standard reports
+Custom reports
+
+
+
+"
+33,Stateflow for Automotive Applications,"Level: 
+Intermediate","['MATLAB Fundamentals for Automotive Applications', 'Simulink Fundamentals for Automotive Applications']","Duration: 
+2 days","Languages: 
+English, 日本語","
+This version of Stateflow for Logic-Driven System Modeling is for automotive engineers looking to model and simulate event-driven and logic systems. This two-day course offers hands-on automotive examples and exercises that apply basic techniques to realistic problems in the automotive industry.
+Topics include:
+
+Flow charts
+State machines
+Hierarchical state machines
+Parallel state machines
+Events in state machines
+Functions in state machines
+Truth tables
+State transition tables
+Component-based modeling
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Modeling Flow Charts
+Objective: Implement decision flows with flow charts.
+
+Junctions and transitions
+Flow chart behavior
+Stateflow interface
+Conditions and condition actions
+Chart data
+Common patterns
+
+Modeling State Machines
+Objective: Implement state machines with state transition diagrams.
+
+State machine behavior
+State and transition actions
+Chart initialization
+Action execution order
+Flow charts within states
+Mealy and Moore charts
+
+Hierarchical State Diagrams
+Objective: Implement hierarchical diagrams to improve the clarity of state machine designs.
+
+Superstates and substates
+State data
+History junction
+Transition priority
+Action execution order
+
+Parallel State Diagrams
+Objective: Implement parallel states to model multiprocessing designs.
+
+Benefits of parallel states
+Chart/state decomposition
+Parallel state behavior
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Using Events in State Diagrams
+Objective: Use events within a Stateflow diagram to affect chart execution.
+
+Using events in state diagrams
+Broadcasting events
+Behavior of state diagrams that contain events
+Implicit events
+Temporal logic operators
+
+Calling Functions from Stateflow
+Objective: Create functions in a Stateflow chart out of Simulink blocks, MATLAB code, and flow charts.
+
+Types of functions
+Simulink functions
+MATLAB functions
+Graphical functions
+
+Truth Tables and State Transition Tables
+Objective: Create flow charts and state transition diagrams in tabular form.
+
+Truth tables
+Conditions, decisions, and actions
+State transition tables
+States, transitions, and actions
+
+Component-Based Modeling in Stateflow
+Objective: Reuse Stateflow designs, constrain chart semantics, and interact with structured Simulink data.
+
+Bus signals
+Data types
+Atomic subcharts
+Data mapping
+Chart reuse
+
+
+
+"
+34,Stateflow for Logic Driven System Modeling,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+2 days","Languages: 
+English, Italiano, 한국어, 中文","
+This two-day course shows how to implement complex decision flows and finite-state machines using Stateflow®. The course focuses on how to employ flow charts, state machines, truth tables, and state transition tables in Simulink® designs.
+Topics include:
+
+Flow charts
+State machines
+Hierarchical state machines
+Parallel state machines
+Events in state machines
+Functions in state machines
+Truth tables
+State transition tables
+Component-based modeling
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Modeling Flow Charts
+Objective: Implement decision flows with flow charts.
+
+Junctions and transitions
+Flow chart behavior
+Stateflow interface
+Conditions and condition actions
+Chart data
+Common patterns
+
+Modeling State Machines
+Objective: Implement state machines with state transition diagrams.
+
+State machine behavior
+State and transition actions
+Chart initialization
+Action execution order
+Flow charts within states
+Mealy and Moore charts
+
+Hierarchical State Diagrams
+Objective: Implement hierarchical diagrams to improve the clarity of state machine designs.
+
+Superstates and substates
+State data
+History junction
+Transition priority
+Action execution order
+
+Parallel State Diagrams
+Objective: Implement parallel states to model multiprocessing designs.
+
+Benefits of parallel states
+Chart/state decomposition
+Parallel state behavior
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Using Events in State Diagrams
+Objective: Use events within a Stateflow diagram to affect chart execution.
+
+Using events in state diagrams
+Broadcasting events
+Behavior of state diagrams that contain events
+Implicit events
+Temporal logic operators
+
+Calling Functions from Stateflow
+Objective: Create functions in a Stateflow chart out of Simulink blocks, MATLAB code, and flow charts.
+
+Types of functions
+Simulink functions
+MATLAB functions
+Graphical functions
+
+Truth Tables and State Transition Tables
+Objective: Create flow charts and state transition diagrams in tabular form.
+
+Truth tables
+Conditions, decisions, and actions
+State transition tables
+States, transitions, and actions
+
+Component-Based Modeling in Stateflow
+Objective: Reuse Stateflow designs, constrain chart semantics, and interact with structured Simulink data.
+
+Bus signals
+Data types
+Atomic subcharts
+Data mapping
+Chart reuse
+
+
+
+"
+35,Statistical Methods in MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals and knowledge of basic Statistics and Machine Learning Toolbox'],"Duration: 
+2 days","Languages: 
+Deutsch, English, Français, 日本語","
+This two-day course provides hands-on experience for performing statistical data analysis with MATLAB® and Statistics and Machine Learning Toolbox™. Examples and exercises demonstrate the use of appropriate MATLAB and Statistics and Machine Learning Toolbox functionality throughout the analysis process; from importing and organizing data, to exploratory analysis, to confirmatory analysis and simulation.
+Topics include:
+
+Managing data
+Calculating summary statistics
+Visualizing data
+Fitting distributions
+Performing tests of significance
+Performing analysis of variance
+Fitting regression models
+Reducing data sets
+Generating random numbers and performing simulations
+
+
+
+
+
+
+
+This program has been approved by GARP and qualifies for 14 GARP CPD credit hours. If you are a Certified FRM or ERP, please record this activity in your credit tracker at https://www.garp.org/cpd.
+
+
+
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Importing and Organizing Data
+Objective: Bring data into MATLAB and organize it for analysis. Perform common tasks, such as merging data and dealing with missing data.
+
+Importing data
+Data types
+Tables of data
+Merging data
+Categorical data
+Missing data
+
+Exploring Data
+Objective: Perform basic statistical investigation of a data set, including visualization and calculation of summary statistics.
+
+Plotting
+Central tendency
+Spread
+Shape
+Correlations
+Grouped data
+
+Distributions
+Objective: Investigate different probability distributions and fit distributions to a data set.
+
+Probability distributions
+Distribution parameters
+Comparing and fitting distributions
+Nonparametric fitting
+
+Hypothesis Tests
+Objective: Determine how likely an assertion about a data set is. Apply hypothesis tests for common uses, such as comparing two distributions and determining confidence intervals for a sample mean.
+
+Hypothesis tests
+Tests for normal distributions
+Tests for nonnormal distributions
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Analysis of Variance
+Objective: Compare the sample means of multiple groups and find statistically significant differences between groups.
+
+Multiple comparisons
+One-way ANOVA
+N-way ANOVA
+MANOVA
+Nonnormal ANOVA
+Categorical correlations
+
+Regression
+Objective: Perform predictive modeling by fitting linear and nonlinear models to a data set. Explore techniques for improving model quality.
+
+Linear regression models
+Fitting linear models to data
+Evaluating the fit
+Adjusting the model
+Logistic and generalized linear regression
+Nonlinear regression
+
+Working with Multiple Dimensions
+Objective: Simplify high-dimensional data sets by reducing the dimensionality.
+
+Feature transformation
+Feature selection
+
+Random Numbers and Simulation
+Objective: Use random numbers to evaluate the uncertainty or sensitivity of a model, or perform simulations. Generate random numbers from various distributions, and manage the MATLAB random number generation algorithms.
+
+Bootstrapping and simulation
+Generating numbers from standard distributions
+Generating numbers from arbitrary distributions
+Controlling the random number stream
+
+
+
+"
+36,Time-Series Modeling in MATLAB,"Level: 
+Intermediate",['MATLAB for Financial Applications and knowledge of time-series modeling concepts'],"Duration: 
+1 day",,"
+This one-day course provides a comprehensive introduction to time-series modeling using MATLAB® and Econometrics Toolbox™. The course is intended for economists, analysts and other financial professionals with prior experience of MATLAB who require to develop and maintain time-series models. The course is designed to follow the standard Box-Jenkins procedure for developing time-series models.
+High-level course themes include:
+
+Preprocessing time-series data
+Identifying long-term and seasonal trends in time-series data
+Testing data stationarity using hypothesis tests
+Creating and fitting ARIMA and GARCH time-series models to a data set
+Comparing different model fits for the same data
+Analyzing model dynamics using Monte Carlo simulations
+Forecasting data using fitted models
+
+
+
+
+
+
+
+This program has been approved by GARP and qualifies for 7 GARP CPD credit hours. If you are a Certified FRM or ERP, please record this activity in your credit tracker at https://www.garp.org/cpd.
+
+
+
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Preparing Data for Model Fitting
+Objective: Prepare time-series data for model fitting by identifying trends and applying data transformations.
+
+Removing exponential trends
+Identifying polynomial and seasonal trends
+Testing for data stationarity
+Stationarizing data
+Unit-root tests
+
+Model Selection and Fitting
+Objective: Use diagnostic tools to select a group of suitable candidate ARIMA and GARCH models for a given time series. Identify, create and fit candidate time-series models to data.
+
+Computing autocorrelation and partial autocorrelation
+Selecting models using formal tests
+Selecting candidate ARIMA and GARCH models for a given data set
+Creating and fitting time series models to a data set
+
+Evaluating Model Appropriateness
+Objective: Compute and evaluate model diagnostics to ensure model correctness, suitability and reliability.
+
+Inferring model residuals
+Testing residuals for Normality
+Analyzing model diagnostics and goodness-of-fit statistics
+Evaluating significance of individual model terms
+Comparing models
+
+Forecasting and Simulation
+Objective: Forecast models to predict future data. Simulate sample trajectories and statistics by applying Monte Carlo simulation techniques.
+
+Forecasting data using fitted models
+Using in-sample forecasts to evaluate model appropriateness
+Monte Carlo model simulation
+Backtesting models
+
+
+
+"
+37,Wavelet Analysis with MATLAB,"Level: 
+Intermediate",['MATLAB Fundamentals; signal processing background is highly recommended'],"Duration: 
+1 day",,"
+This one-day course shows how to use Wavelet Toolbox™ to perform wavelet analysis on signals. After motivating time-frequency analysis of time-varying signals using wavelets, both continuous and discrete wavelet-based techniques are covered. A background in signal processing is highly recommended for this course.
+
+
+
+Topics include:
+
+Performing time-frequency analysis using continuous wavelet transform
+Building and using time-localized filters
+Implementing multiresolution analysis using discrete wavelet transform
+Denoising signals using wavelets
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Continuous Wavelet Analysis
+
+
+
+Objective: Learn the motivation for using wavelets to analyze signals and the fundamentals of wavelet analysis.
+
+Interactive and programmatic time-frequency analysis using continuous wavelet transform
+Time-localized filtering
+Time-frequency resolution using wavelet synchrosqueezing and ridge extraction
+Wavelet coherence to find coherent time-varying oscillations in two signals
+
+
+
+
+Discrete Wavelet Analysis
+
+
+
+Objective: Learn how multiresolution analysis can be used to detect patterns in signals and reconstruct signals that retain only desired features.
+
+Multiresolution analysis
+Decimated and nondecimated discrete wavelet transforms
+Wavelet denoising
+Wavelet packet transform
+
+
+
+"
+38,Wireless Communications Systems Design with MATLAB and USRP Software-Defined Radios,"Level: 
+Intermediate",['MATLAB Fundamentals and knowledge of digital communications systems'],"Duration: 
+2 days","Languages: 
+English","
+This two-day course shows how to design and simulate single- and multi-carrier digital communications systems using MATLAB®. Multi-antenna and turbo-coded communication systems are introduced, and different channel impairments and their modeling are demonstrated. Components from LTE and IEEE 802.11 systems will be used as examples. The instructor will demonstrate a radio-in-the-loop system using real-time hardware (RTL-SDR and USRP®).
+The target audience for this course includes system engineers and RF engineers who need a fast ramp-up on modern communication techniques and the radio-in-the-loop workflow.
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Communication over a Noiseless Channel
+Objective: Modeling an ideal single-carrier communications system and becoming familiar with System objects.
+
+Sampling theorem and aliasing
+Using complex baseband versus real passband simulation
+Creating a random bit stream
+Discovering System objects and their benefits
+Modulating a bit stream using QPSK
+Applying pulse-shaping to the transmitted signal
+Using eye diagrams and spectral analysis
+Modeling a QPSK receiver for a noiseless channel
+Computing bit error rate
+
+Noisy Channels, Channel Coding, and Error Rates
+Objective: Modeling an AWGN channel. Using convolutional, LDPC, and turbo codes to reduce bit error rate. Error correcting codes from DVB-S.2 and LTE systems are used as examples. Accelerating simulations using multiple cores.
+
+Modeling an AWGN channel
+Using channel coding and decoding: convolutional, LDPC, and turbo codes
+Decoding using Trellis diagram and Viterbi algorithm
+Using Parallel Computing Toolbox to accelerate Monte Carlo simulations
+Discussion of alternative acceleration methods: GPUs, MATLAB Distributed Computing Server™, Cloud Center
+
+Timing and Frequency Errors and Multipath Channels
+Objective: Modeling frequency offset, timing jitter errors, and mitigation using frequency and timing synchronization techniques. Modeling flat fading, multipath channels, and mitigation using equalizers.
+
+Modeling phase and timing offsets
+Mitigating frequency offset using a PLL
+Mitigating timing jitter using Gardner timing synchronization
+Modeling flat fading channels
+Using training sequences for channel estimation
+Modeling frequency selective fading channels
+Using Viterbi equalizers for time-invariant channels and LMS linear equalizers for time-varying channels
+Demonstration of a real-time demodulation of single-carrier broadcast using RTL-SDR
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Multicarrier Communications Systems for Multipath Channels
+Objective: Understanding motivation for multicarrier communications systems for frequency selective channels. Modeling an OFDM transceiver with a cyclic prefix and windowing. System parameter values from IEEE 802.11ac and LTE will be used.
+
+Motivation for multicarrier communications
+Introduction to Orthogonal Frequency Division Multiplexing (OFDM)
+OFDM symbol generation using the IFFT
+Inter-block interference prevention using a cyclic prefix
+Reduction of out-of-band emissions using windowing
+Advantages and disadvantages of OFDM
+Timing and frequency recovery methods for OFDM
+Channel estimation using pilot symbols
+Frequency domain equalization
+
+Using Multiple Antennas for Robustness and Capacity Gains
+Objective: Understanding alternative multiple antenna communications system. Modeling beamforming, diversity, and spatial multiplexing systems. Constructing a MIMO-OFDM system for wideband communications. MIMO modes of IEEE 802.11ac and LTE will be discussed.
+
+Advantages and types of multi-antenna systems
+Transmit and receive beamforming
+Receive diversity techniques
+Transmit diversity using orthogonal space-time block codes
+Narrowband multiple input-multiple output (MIMO) channel model
+MIMO channel estimation
+Spatial multiplexing using ZF and MMSE equalization
+Wideband communications using an MIMO-OFDM system
+
+Building a Radio-in-the-Loop System
+Objective: Understanding the radio-in-the-loop development workflow. Using RTL-SDRs and USRPs as radio-in-the-loop development platforms.
+
+Overview of the radio-in-the-loop workflow
+MathWorks communications hardware support (RTL-SDR, USRP, Zynq®-Based Radio)
+Hardware alternative comparison (pros/cons table)
+Different RIL transmit and receive modes (single burst, looped, streamed)
+Creation of an end-to-end single-antenna multicarrier communications system using a USRP
+Demonstration of a 2x2 OFDM-MIMO over-the-air system using USRPs
+
+
+
+"
+39,Power Electronics Control Design with Simulink and Simscape,"Level: 
+Intermediate","['MATLAB Fundamentals', 'Simulink Fundamentals', 'Modeling Physical Systems with Simscape']","Duration: 
+1 day","Languages: 
+English, 日本語, 한국어, 中文","
+This course focuses on modeling and controlling power electronic systems in the Simulink® environment using Simscape Electrical™.
+Topics include:
+
+Modeling direct current (dc) power electronic components
+Controlling the level of fidelity in a model
+Developing controls for power electronics
+Modeling three-phase alternating current (ac) power electronic components
+Controlling power electronics for motor drive applications
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+DC Power Electronic Systems
+
+
+
+Objective: Learn to model and analyze direct current (dc) power electronic systems.
+
+Modeling a boost converter
+Measuring physical quantities
+Visualizing results
+Selecting a solver
+
+
+
+
+Converter Model Fidelity
+
+
+
+Objective: Learn to build power electronic models using the most appropriate level of fidelity.
+
+Selecting appropriate converter model fidelity
+Using prebuilt components
+Logging and comparing signals
+Measuring efficiency and losses
+
+
+
+
+Linearization and Control
+
+
+
+Objective: Learn to linearize power electronic switching models and tune closed-loop control systems.
+
+Implementing closed-loop voltage control
+Linearizing power electronic converters
+Tuning the controller
+
+
+
+
+Three-Phase Power Electronic Systems
+
+
+
+Objective: Learn to model and analyze three-phase ac power electronic systems.
+
+Modeling a three-phase inverter
+Measuring three-phase physical quantities
+Characterizing harmonics and distortion
+
+
+
+
+Motor Control
+
+
+
+Objective: Learn to model and control electric motors using power electronics.
+
+Modeling a PMSM motor
+Implementing motor control
+Verifying the motor design
+Integrating into a system-level model
+
+
+
+"
+40,Simulink for Analog Mixed-Signal Design,"Level: 
+Intermediate",['MATLAB Fundamentals and basic knowledge of digital signal processing and mixed signal design'],"Duration: 
+2 days","Languages: 
+English","
+This two-day course, targeted toward new users of Simulink, uses basic modeling techniques and tools to demonstrate how to develop Simulink block diagrams for mixed signal applications.
+
+
+
+Topics include:
+
+Using the Simulink interface
+Modeling discrete dynamic systems
+Modeling mixed-signal (hybrid) systems
+Developing custom blocks and libraries
+Modeling condition-based systems
+Performing measurements using built in blocks
+Using test benches to test mixed signal systems
+Using control design techniques for bode plot analysis and linearization
+Automating Simulink tasks
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating and Simulating a Model
+
+
+
+Objective: Explore the Simulink interface and block libraries. Build a simple model and analyze the simulation results.
+
+Creating and editing a Simulink model
+Defining system inputs and outputs
+Simulating models and analyzing results
+
+
+
+
+Modeling Discrete Dynamic Systems
+
+
+
+Objective: Model discrete dynamic systems and visualize frame-based signals using a scope.
+
+Modeling a discrete system with basic blocks
+Finding sample times of block outputs
+Using frames in your model
+Using buffers
+Viewing frame-based signals
+Behavior of delay blocks with frame-based signals
+Using the discrete filter block
+Designing analog and decimation/interpolation filters
+
+
+
+
+Modeling Logical Constructs
+
+
+
+Objective: Model logical expressions. See how zero-crossing detection is used in Simulink and model simple logic in Simulink using MATLAB code.
+
+Modeling logical expressions
+Modeling conditional signal routing
+Understanding zero-crossing detection
+Modeling with the MATLAB Function block
+
+
+
+
+Mixed-Signal Models
+
+
+
+Objective: Model mixed-signal systems.
+
+What is a mixed-signal model?
+Modeling an ADC with aperture jitter and nonlinearity
+Case study: Modeling TI's ADS62P29 ADC
+Modeling a PLL with phase noise and other impairments
+Using blocks from the Mixed-Signal Blockset
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Simulink Solvers
+
+
+
+Objective: Choose the right solver for a Simulink model.
+
+Understanding the Simulink solver
+Solving simple models
+Solving models with discrete and continuous states
+Solving models with multiple rates
+Fixed-step and variable-step solvers
+Choosing a continuous-state system solver
+Handling zero crossings
+Handling algebraic loops
+Case study: Solver profiler for PLL simulation
+
+
+
+
+Subsystems and Libraries
+
+
+
+Objective: Create custom blocks in Simulink, apply masks, and develop custom libraries.
+
+Creating subsystems
+Understanding virtual and atomic subsystems
+Modeling condition-driven systems with enabled subsystems
+Modeling condition-driven systems with triggered subsystems
+Using a subsystem as a model component
+Masking subsystems
+Creating custom block libraries
+Working with and modifying library blocks
+Adding custom libraries to the Simulink Library Browser
+Creating configurable subsystems
+
+
+
+
+Testbenches and Measurements
+
+
+
+Objective: Perform spectral analysis in Simulink, use testbenches from the Mixed-Signal Blockset to evaluate performance.
+
+Performing spectral analysis with the Spectrum Scope block
+Choosing spectral analysis parameters
+Using the logic analyzer
+Measuring Phase Noise, INL, DNL, Jitter
+Using testbenches from the Mixed Signal Blockset
+
+
+
+
+Control Design Analysis
+
+
+
+Objective: Create Bode plots, perform linearization, use the Control System Designer app, control and run Simulink models from the MATLAB command line.
+
+Creating and analyzing bode plots
+Performing Linearization
+Using the Control System Designer
+Automating test runs
+Checking and modifying parameter settings
+Finding blocks with specific parameter values
+Constructing and modifying block diagrams
+
+
+
+"
+41,System Composer for Architecture Modeling,"Level: 
+Intermediate","['Simulink Fundamentals', 'Basic knowledge of Systems Engineering concepts is recommended']","Duration: 
+1 day","Languages: 
+Deutsch, English, Français, 日本語","
+This one-day course focuses on developing and analyzing model-based architectures with System Composer™ and Requirements Toolbox™.
+
+
+
+Topics include:
+
+Identifying the role of architectural modeling in Model-Based Design
+Creating functional, logical, and physical architectures
+Associating and tracking non-functional properties in architecture elements
+Analyzing architecture models for early requirement validation
+Generating architecture visualizations
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to Model-Based Design
+
+
+
+Objective: Introduce the concept of Model-Based Design and outline the advantages of System Composer.
+
+Advantages of System Composer
+Model-Based Design Process
+Subsystem Implementation
+Testing, Verification and Validation
+Course Example Walkthrough
+
+
+
+
+Working with Requirements
+
+
+
+Objective: Articulate general attributes of requirements and capture requirements with Requirements Toolbox.
+
+Identifying and writing high-level requirements
+Writing requirements
+Creating requirement sets
+Importing requirements
+
+
+
+
+Logical System Architectures
+
+
+
+Objective: Introduce the three main types of system architectures and build logical architectures.
+
+Distinguishing between functional, logical and physical architectures
+Creating logical architectures
+Creating interfaces in System Composer
+Linking Simulink models
+
+
+
+
+Physical System Architectures
+
+
+
+Objective: Discuss how to create variant and reference components, and how to use physical ports.
+
+Creating physical ports in physical architectures
+Adding reference architectures
+Adding variant components
+
+
+
+
+Capturing and Analyzing System Properties
+
+
+
+Objective: Capture system properties for individual elements with stereotypes and leverage MATLAB® to analyze and aggregate these properties.
+
+Introducing profiles and stereotypes
+Creating and customizing stereotypes for elements
+Creating stereotype properties
+Analyzing system properties with MATLAB
+
+
+
+
+Enhancing Architecture Traceability
+
+
+
+Objective: Generate views, diagrams, allocations, and tracking requirements to enhance the digital thread of the project.
+
+Generating hierarchical diagrams of architecture models
+Highlighting specific paths, domains, and areas of responsibility in architecture models
+Using sequence diagrams
+Allocating between functional, logical, and physical architectures
+Tracking requirement traceability
+
+
+
+"
+42,Code Generation for Classic AUTOSAR Software Components,"Level: 
+Intermediate","['Simulink Fundamentals (or Simulink Fundamentals for Automotive Applications or Simulink Fundamentals for Aerospace Applications)', 'Embedded Coder for Production Code Generation', 'Knowledge of C programming language and the AUTOSAR standard']","Duration: 
+2 days","Languages: 
+Deutsch, English, 日本語, 中文","
+This two-day course discusses Classic AUTOSAR-compliant modeling and code generation using AUTOSAR Blockset. Workflows for top-down and bottom-up software development approaches are discussed in the context of Model-Based Design. This course is intended for automotive industry software developers and systems engineers who use Embedded Coder for automatic C/C++ code generation. 
+Topics include:
+
+Generating Simulink models from existing ARXML system descriptions
+Configuring Simulink models for AUTOSAR compliant code generation
+Configuring AUTOSAR communication elements in a Simulink model
+Modeling AUTOSAR events in Simulink
+Creating calibration parameters
+Modeling AUTOSAR variation points within software components
+Importing and exporting AUTOSAR compositions and software architectures
+Modeling calls to basic software services
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Importing AUTOSAR Software Components
+
+
+
+Objective: Import existing ARXML files to automatically generate Simulink models with correct architecture and interfaces.
+
+AUTOSAR XML (ARXML) description
+Importing AUTOSAR software components
+Array and enumeration data types
+Adding functionality to generated Simulink models
+Simulating with a harness model
+AUTOSAR code generation
+Structure and fixed-point data types
+Managing imported data types in Simulink
+Importing modified ARXML files
+
+
+
+
+Exporting AUTOSAR Software Components
+
+
+
+Objective: Configure Simulink models as AUTOSAR software components and define AUTOSAR ports and interfaces for ARXML generation.
+
+Creating AUTOSAR Components
+Mapping Simulink model objects to AUTOSAR software components
+Generating code and exporting ARXML files
+
+
+
+
+Modeling AUTOSAR Ports and Interfaces
+
+
+
+Objective: Configure Simulink Inport and Outport blocks as various types AUTOSAR ports.
+
+AUTOSAR Communication overview (ports and interfaces)
+Modeling sender-receiver communication
+Modeling AUTOSAR modes
+Modeling client-server communication
+
+
+
+
+Modeling AUTOSAR Events
+
+
+
+Objective: Model periodic and non-periodic AUTOSAR events in Simulink models.
+
+AUTOSAR events overview
+Simulating events in Simulink models
+Timing (periodic) events
+Nonperiodic events overview
+Modeling data received events
+Modeling mode switch events
+Triggering initialization
+Simulating nonperiodic events
+
+
+
+
+Modeling Calibration Parameters and Per-Instance Memory
+
+
+
+Objective: Specify AUTOSAR calibration parameters and per-instance memory in a Simulink model using data objects and code mappings.
+
+Modeling calibration parameters provided by parameter SWCs
+Modeling internal calibration parameters: shared by all instances
+Modeling internal calibration parameters: separate copy for each instance
+Modeling per-instance memory
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Modeling AUTOSAR Variants
+
+
+
+Objective: Configure a variant-based design within an AUTOSAR software component, and map Simulink variants to AUTOSAR variation points.
+
+Creating variant subsystems in rate-based models
+Generating AUTOSAR variants
+
+
+
+
+Modeling AUTOSAR Compositions and Software Architecture
+
+
+
+Objective: Create an AUTOSAR software architecture design, and populate it with working AUTOSAR software components and compositions.
+
+Creating AUTOSAR software architectures and compositions
+Generating AUTOSAR software components
+Exporting AUTOSAR compositions and software components
+Simulating AUTOSAR software architecture models
+Importing AUTOSAR compositions
+Generating code for reusable software components
+
+
+
+
+Modeling Basic Software Services
+
+
+
+Objective: Configure AUTOSAR software components to read and write diagnostic statuses and manage non-volatile RAMs.
+
+Basic software services overview
+Setting diagnostic statuses
+Monitoring diagnostic statuses
+Reading and writing NVRAM
+Monitoring NVRAM
+
+
+
+"
+43,Designing 3D Scenes with RoadRunner,"Level: 
+Intermediate",['Experience with basic computer operations'],"Duration: 
+1 day",,"
+This one-day course provides hands-on experience with designing 3D scenes for simulating and testing automated driving systems. You'll learn ways to create road networks and insert customized markings, signs and signals, as well as vegetation, buildings, and other 3D models. You will apply these techniques to reconstruct a real-world scene based on map data and export the scene into common formats used by automated driving simulators.
+
+
+
+Topics include:
+
+Navigating and examining RoadRunner scenes using camera controls
+Creating and customizing roads, lanes, and junctions
+Defining surfaces and adding elements of the scene, such as road signs, trees, and buildings
+Reconstructing geo-specific scenes based on geographic information system (GIS) assets, such as aerial images, lidar point clouds, and elevation data
+Importing and exporting scenes in the OpenDRIVE® format
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Working with the User Interface
+
+
+
+Objective: Navigate the RoadRunner interface and maneuver inside a scene.
+
+Navigating the RoadRunner interface and layout
+Maneuvering inside a RoadRunner scene using camera controls
+Selecting and moving objects in a scene
+Measuring distance between scene elements
+
+
+
+
+Roads
+
+
+
+Objective: Create, connect, and customize road segments and road networks.
+
+Creating, chopping, and joining road segments
+Modifying road shape and vertical and cross-section profile
+Changing road superelevation and speed limits
+Creating on-ramps, off-ramps, and road splits
+
+
+
+
+Lanes
+
+
+
+Objective: Create and modify lanes, lane markings, and other road stencil markings.
+
+Adding driving lanes, curbs, sidewalks, and parking spaces
+Customizing lane properties, such as width and travel direction
+Adding, editing, and customizing lane markings
+Saving road styles with customized lanes for reuse
+
+
+
+
+Junctions
+
+
+
+Objective: Connect roads through junctions, add traffic lights, and define allowed vehicle maneuvers.
+
+Creating and customizing junctions
+Defining a set of maneuvers in a junction, such as permitted turns
+Signalizing a junction by inserting traffic lights
+Adding crosswalks for pedestrians
+
+
+
+
+Terrains and Props
+
+
+
+Objective: Add surfaces and 3D props, such as trees and buildings.
+
+Creating a surface of a specific material, such as grass, asphalt, or sand
+Adding props such as traffic signs, buildings, and trees
+Adding groups of props along a road or within a surface, such as a group of trees
+Customizing text and symbols on traffic signs
+Importing custom props made in other object-modeling tools
+
+
+
+
+Geo-Specific Scene Design
+
+
+
+Objective: Construct a scene that accurately represents a real-world location by using GIS assets.
+
+Importing aerial imagery as a reference for creating roads and surfaces
+Incorporating elevation data to add height information
+Working with point cloud data
+Using vector data, such as OpenStreetMap®
+
+
+
+
+Working with OpenDRIVE Data
+
+
+
+Objective: Create a scene from imported OpenDRIVE data.
+
+Exporting the scene to OpenDRIVE file format
+Importing OpenDRIVE data
+Mapping OpenDRIVE data to RoadRunner assets
+Exporting to other file formats, such as .fbx, for use with external simulators
+
+
+
+"
+44,Embedded Coder for Production Code Generation,"Level: 
+Intermediate","['Simulink Fundamentals (or Simulink Fundamentals for Automotive Applications or Simulink Fundamentals for Aerospace Applications)', 'Knowledge of C programming language']","Duration: 
+2 days","Languages: 
+Deutsch, English, Français, Italiano, 日本語, 한국어, 中文","
+This hands-on, two-day course focuses on developing models in the Simulink® environment to deploy on embedded systems. The course is designed for Simulink users who intend to generate, validate, and customize embedded code using Embedded Coder®.
+Topics include:
+
+Generated code structure and execution
+Code generation options and optimizations
+Integrating generated code with external code
+Generating code for multirate systems
+Customizing generated code
+Customizing data
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Generating Embedded Code
+
+
+
+Objective: Configure Simulink models for embedded code generation and effectively interpret the generated code.
+
+Architecture of an embedded application
+System specification
+Generating code
+Code modules
+Logging intermediate signals
+Data structures in generated code
+Verifying generated code
+Embedded Coder® build process
+
+
+
+
+Optimizing Generated Code
+
+
+
+Objective: Identify the requirements of the application at hand and configure optimization settings to satisfy these requirements.
+
+Optimization considerations
+Removing unnecessary code
+Removing unnecessary data support
+Optimizing data storage
+Profiling generated code
+Code generation objectives
+
+
+
+
+Integrating Generated Code with External Code
+
+
+
+Objective: Modify models and files to run generated code and external code together.
+
+External code integration overview
+Model entry points
+Creating an execution harness
+Controlling code destination
+Packaging generated code
+
+
+
+
+Controlling Function Prototypes
+
+
+
+Objective: Customize function prototypes of model entry points in the generated code.
+
+Default model function prototype
+Modifying function prototypes
+Generated code with modified function prototypes
+Model function prototype considerations
+Reusable function interface
+Function defaults
+
+
+
+
+Customizing Data Characteristics in Simulink®
+
+
+
+Objective: Control the data types and storage classes of data in Simulink.
+
+Data characteristics
+Data type classification
+Simulink data type configuration
+Setting signal storage classes
+Setting state storage classes
+Impact of storage classes on symbols
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Customizing Data Characteristics Using Data Objects
+
+
+
+Objective: Control the data types and storage classes of data using data objects.
+
+Simulink® data objects overview
+Controlling data types with data objects
+Creating reconfigurable data types
+Controlling storage classes with data objects
+Controlling data type and variable names
+Data dictionaries
+
+
+
+
+Customizing Generated Code Architecture
+
+
+
+Objective: Control the architecture of the generated code according to application requirements.
+
+Simulink model architecture
+Controlling code partitioning
+Generating reusable subsystem code
+Generating variant components
+Code placement options
+
+
+
+
+Model Referencing and Bus Objects
+
+
+
+Objective: Control the data type and storage class of bus objects and use them for generating code from models that reference other models.
+
+Creating reusable model references
+Controlling data type of bus signals
+Controlling storage class of bus signals
+Model Reference software testing
+
+
+
+
+Scheduling Generated Code Execution
+
+
+
+Objective: Generate code for multirate systems in single-tasking, multitasking, and function call-driven configurations.
+
+Execution schemes for single-rate and multirate systems
+Generated code for single-rate models
+Multirate single-tasking code
+Multirate multitasking code
+Generating exported functions
+
+
+
+
+Improving Code Efficiency and Compliance
+
+
+
+Objective: Inspect the efficiency of generated code and verify compliance with standards and guidelines.
+
+Model Advisor
+Hardware implementation parameters
+Compliance with standards and guidelines
+
+
+
+"
+45,Polyspace for C/C++ Code Verification,"Level: 
+Intermediate",['Strong knowledge of C or C++'],"Duration: 
+2 days","Languages: 
+English, 日本語, 한국어, 中文","
+This two-day course discusses the use of Polyspace® Code Prover™ to prove code correctness, improve software quality metrics, and ensure product integrity. This hands-on course is intended for engineers who develop software or models targeting embedded systems. Note that day 3 is optional and is only available for private trainings
+Topics include:
+
+Creating a verification project
+Reviewing and understanding verification results
+Emulating target execution environments
+Handling missing functions and data
+Managing unproven code (color-coded in orange by Polyspace products)
+Applying MISRA-C® rules
+Reporting analysis results
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Polyspace Workflow Overview
+
+
+
+Objective: Become familiar with Polyspace Bug Finder and Polyspace Code Prover and work through an introductory example.
+
+Software development workflows with Polyspace
+Simple verification example
+Analyzing defects and run-time errors
+
+
+
+
+Polyspace Bug Finder Analysis
+
+
+
+Objective: Analyze code that may not be ANSI C compliant and account for the run-time environment, and correct defects and coding rule violations using Polyspace Bug Finder.
+
+Common run-time environment artifacts
+Handling processor-specific code
+Defining the execution context
+Setting target hardware information
+Analyzing and managing Polyspace Bug Finder defects
+Detecting coding rule violations
+Measuring code metrics
+
+
+
+
+Analyzing Polyspace Code Prover Results
+
+
+
+Objective: Become proficient at interpreting Polyspace Code Prover results.
+
+Overview of abstract interpretation
+Call tree analysis
+Source code navigation
+Execution paths
+Variable ranges
+Global variables
+
+
+
+
+Code Verification Checks
+
+
+
+Objective: Find run-time errors using diagnostics available in Polyspace Code Prover.
+
+Overview of C source code checks
+Location of checks in source code
+Description of checks
+Relevant verification options
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Managing Polyspace Code Prover Verifications and Results
+
+
+
+Objective: Learn how Polyspace Code Prover treats missing code during verification, and how to affect this behavior to produce more meaningful verifications.
+
+Robustness verification and contextual verification
+Function stubbing
+Data range specification
+Manual stubbing
+
+
+
+
+Adding Precision to Polyspace Code Prover Verifications
+
+
+
+Objective: Handle verification results that contain large amounts of unproven checks.
+
+Determining verification effort
+Performing a quick review
+Performing a selective orange review
+Setting verification precision
+Prioritizing orange checks
+Reviewing orange checks
+
+
+
+
+Integration Analysis
+
+
+
+Objective: Learn how to manage verifications with increasing code complexity, and how to interpret and compare integrated analysis with robust analysis.
+
+Managing code modules
+Analyzing integration defects and rule violations with Polyspace Bug Finder and Polyspace Code Prover
+Importing comments
+
+
+
+
+Application Analysis
+
+
+
+Objective: Review procedures and options that are useful when verifying complete applications.
+
+Setting up an application verification
+Improving the results of an application verification
+Detecting concurrency issues
+Comparing robustness and contextual verification
+Creating documentation
+
+
+
+
+Day 3 (optional, available with private training only)
+
+
+
+
+
+
+Hands-On Instruction (Optional)
+
+
+
+Objective: Spend time reviewing what you have learned and applying Polyspace directly to your own project. Potential topics include:
+
+Polyspace Bug Finder checks
+C++ code verification
+Tasking and shared data analysis
+Generated code verification
+Development process review
+Workflow integration
+Client/server software installation
+Polyspace configuration for project code
+Results interpretation
+
+
+
+"
+46,Programming Xilinx Zynq SoCs with MATLAB and Simulink,"Level: 
+Intermediate","['Simulink Fundamentals (or Simulink Fundamentals for Automotive Applications or Simulink Fundamentals for Aerospace Applications)', 'Knowledge of C and HDL programming languages']","Duration: 
+4 half-days","Languages: 
+English, 한국어","
+This hands-on, four-half day course focuses on developing and configuring models in Simulink® and deploying on Xilinx® Zynq®-7000 All Programmable SoCs. The course is designed for Simulink users who intend to generate, validate, and deploy embedded code and HDL code for software/hardware codesign using Embedded Coder® and HDL Coder™. 
+Topics include:
+
+Zynq platform overview and environment setup
+Introduction to Embedded Coder and HDL Coder
+IP core generation and deployment
+Using AXI4 interface
+Processor-in-the-loop verification
+Data interface with real-time application
+Integrating device drivers
+Custom reference design
+
+
+
+
+","
+Day 1 of 4
+
+
+
+
+
+
+Zynq Platform Overview and Environment Setup
+
+
+
+Objective: Configure Zynq-7000 platform and MATLAB environment.
+
+Zynq-7000 overview
+Setting up Zynq platform and software
+Configuring MATLAB environment
+Testing connectivity to Zynq hardware
+
+
+
+
+Introduction to Embedded Coder and HDL Coder
+
+
+
+Objective: Configure Simulink models for embedded code generation and effectively interpret the generated code.
+
+Architecture of an embedded application
+Generating ERT code
+Code modules
+Data structures in generated code
+Configuring a Simulink model for HDL code generation
+Using HDL Workflow Advisor
+
+
+
+
+IP Core Generation and Deployment
+
+
+
+Objective: Use HDL Workflow Advisor to configure a Simulink model, generate and build both HDL and C code, and deploy to Zynq platform.
+
+Configuring a subsystem for programmable logic
+Configuring the target interface and peripherals
+Generating the IP core and integrating with SDK
+Building and deploying the FPGA bitstream
+Generating and deploying a software interface model
+Tuning parameters with External Mode
+
+
+
+
+Day 2 of 4
+
+
+
+
+
+
+Using AXI4 Interface
+
+
+
+Objective: Use various AXI interfaces for data communication between processing system and programmable logic.
+
+AXI interface overview
+AXI4-Lite applications
+Using AXI4-Stream
+AXI4 performance considerations
+
+
+
+
+Processor-in-the-Loop Verification
+
+
+
+Objective: Use processor-in-the-loop to verify the algorithm running on Zynq platform and profile the execution times in your production algorithm.
+
+Processor-in-the-loop (PIL) workflow on Zynq
+PIL verification with model reference
+Code execution profiling with PIL
+PIL considerations
+
+
+
+
+Day 3 of 4
+
+
+
+
+
+
+Data Interface with Real-Time Application
+
+
+
+Objective: Use the UDP interface to stream data between Simulink and the real-time application running on Zynq platform.
+
+Data interface overview
+Configuring UDP blocks for data streaming
+Synchronizing data between Simulink and Zynq
+Data interface with AXI Stream
+Design partitioning
+Data interface considerations
+
+
+
+
+Integrating Device Drivers
+
+
+
+Objective: Develop device driver interfaces for integrating peripherals on processing system.
+
+Workflow for developing device drivers
+Using the Legacy Code Tool
+GPIO interface
+Cross-compiling device drivers
+
+
+
+
+Day 4 of 4
+
+
+
+
+
+
+Custom Reference Design
+
+
+
+Objective: Create and package reusable IP for Vivado and register custom boards and reference designs.
+
+Motivations for a custom reference design
+Creating reusable IP for Vivado
+Reference design overview
+Customizing a reference design
+Registering board and custom reference design
+
+
+
+"
+47,Communication Systems Modeling with Simulink,"Level: 
+Advanced","['MATLAB Fundamentals', 'Signal Processing with MATLAB', 'Signal Processing with Simulink', 'Working experience with MATLAB, Simulink, and DSP System Toolbox']","Duration: 
+1 day",,"
+Using hands-on examples, this one-day course demonstrates the use of Simulink products to design common communication systems. The emphasis is on designing end-to-end communication systems using Simulink®, Communications Toolbox™, and DSP System Toolbox™.
+Topics include:
+
+Modeling using Communications Toolbox
+Analyzing the bit error rate (BER) of a communication system
+Adding channel impairments
+Designing receiver algorithms
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Amplitude Modulation Using Simulink
+
+
+
+Objective: Build an AM system to review basic concepts in Simulink.
+
+Building a simple AM model in Simulink
+Creating a subsystem
+Visualizing a signal in the time and frequency domains
+Working with MATLAB data
+Simulating the model from the command line
+
+
+
+
+Modeling Using Communications Toolbox
+
+
+
+Objective: Build an end-to-end QPSK model using Communications Toolbox and become familiar with the different visualization tools within the toolbox.
+
+Exploring Communications Toolbox
+Creating a QPSK transmitter model
+Generating a random source
+Using frame-based processing
+Visualizing with scatter plots and eye diagrams
+Creating a QPSK receiver model
+Calculating error rate statistics
+
+
+
+
+Communication Systems Analysis
+
+
+
+Objective: Analyze the BER performance of an end-to-end communication system by writing a MATLAB script and using BERTool.
+
+Computing the BER curve
+Automating performance analysis: scripts
+Adding channel coding
+Using BERTool for performance analysis
+
+
+
+
+Channel Impairments and Receiver Algorithms
+
+
+
+Objective: Add channel impairments and recovery blocks to test receiver performance.
+
+Adding phase and frequency offset
+Correcting phase and frequency using DQPSK
+Adding timing offset
+Correcting for timing offset
+Modeling multi-path channel impairments
+Using MATLAB code in the model for equalization
+
+
+
+"
+48,Designing LTE and LTE Advanced Physical Layer Systems with MATLAB,"Level: 
+Advanced",['MATLAB Fundamentals and knowledge of wireless communications systems'],"Duration: 
+3 days","Languages: 
+English","
+This three-day course provides an overview of the LTE and LTE-Advanced physical layer. Using MATLAB®, and LTE Toolbox™, attendees will learn how to generate reference LTE waveforms and build and simulate an end-to-end LTE PHY model.
+Topics include:
+
+Review of the advanced communications techniques forming the core of an LTE system: OFDMA and SC-FDMA multi-carrier techniques, and MIMO multi-antenna systems
+Descriptions of all of the signals and elements of the processing chain for the uplink and downlink LTE physical channels
+Methods for golden reference verification with the standard
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Introduction to 3GPP Long Term Evolution
+
+
+
+Objective: Provide an introduction to the LTE standard and its relationship to other 3GPP standards. Understand general requirements and objectives for LTE. Get an overview of different protocol layers within LTE.
+
+3GPP evolution from R5 to R11
+Requirements
+Spectrum flexibility
+General characteristics
+Multi-user scheduling
+Resource allocation
+Frequency reuse planning
+
+
+
+
+OFDM Theory Review
+
+
+
+Objective: Understand the basics of OFDM modulation, cyclic prefix insertion, and windowing.
+
+Motivation for multi-carrier vs single-carrier
+Introduction to OFDM
+Generation of OFDM symbols using the IFFT
+Cyclic prefix (guard interval)
+Windowing to reduce out of band emissions
+Advantages and disadvantages of OFDM
+
+
+
+
+LTE Frames, Slots and Resources
+
+
+
+Objective: Understand the concepts of frames, subframes, slots, and physical resource grids in LTE downlink and uplink.
+
+LTE generic frame structure
+Downlink and uplink slot formats
+Resource elements and resource blocks
+Downlink OFDM symbol construction
+Uplink SC-FDMA symbol construction
+LTE downlink resource capacity
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Procedures
+
+
+
+Objective: Understand different physical layer procedures for both downlink and uplink specified in LTE.
+
+Cell search
+Cell identities in cell search
+Symbol synchronization
+Frame and cell synchronization
+System information acquisition: MIBs and SIBs
+Timing synchronization procedures
+Uplink power control
+
+
+
+
+MIMO Background
+
+
+
+Objective: Understand different MIMO techniques namely diversity, beamforming, and spatial multiplexing. Learn about singular value decomposition as the solution to the generic MIMO problem.
+
+Spectral efficiency and capacity
+Transmit and receive diversity
+The Alamouti Scheme
+Delay Diversity and Cyclic Delay Diversity
+Beamforming
+Spatial multiplexing
+Singular value decomposition
+Equalizing, predistortion, precoding, and combining
+
+
+
+
+LTE Downlink Physical Layer Modulation
+
+
+
+Objective: Understand processing elements for different downlink physical channels and downlink physical signals. Learn about resource grid and control channel element.
+
+Downlink physical channel processing chain
+Codewords and layers
+Scrambling and modulation
+Transmission schemes
+Diversity, spatial multiplexing, and beamforming
+Synchronization signals: PSS and SSS
+Reference signals: cell and UE specific, MBSFN
+Downlink physical channels: PBCH, PCFICH, PDSCH, and PDCCH
+Control region
+REGs and CCEs, PDCCH search spaces
+Resource grid mapping
+
+
+
+
+MIMO in LTE R8
+
+
+
+Objective: Learn different MIMO techniques specified in the LTE standard.
+
+Codewords to layers mapping
+Precoding for spatial multiplexing
+Precoding for transmit diversity
+Beamforming in LTE
+Cyclic Delay Diversity-based precoding
+Precoding codebooks
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+LTE Multiplexing and Channel Coding
+
+
+
+Objective: Understand the coding, multiplexing, and mapping to physical channels for all transport channels in downlink and uplink.
+
+Transport channels and control information: DL-SCH, PCH, BCH, DCI, CFI, HI, UL-SCH, and UCI
+Mapping of transport channels to physical channels
+CRC coding and masking
+Code block segmentation
+Convolutional and turbo coding
+Rate matching, bit selection and pruning
+Transport channels and control information processing chains
+HARQ: incremental redundancy, stop-and-wait
+
+
+
+
+LTE Uplink Physical Layer Modulation
+
+
+
+Objective: Understand processing elements for different uplink physical channels and uplink physical signals.
+
+Uplink physical channel processing chain
+Scrambling and modulation
+SC-FDMA review
+Uplink Reference signals: DRS and SRS
+Uplink physical channels: PUSCH, PUCCH, and PRACH
+Control information: CQI, RI, PMI, HI, and SR
+Control signaling on PUSCH and PUCCH
+PUCCH formats
+Uplink physical channels and physical signals
+
+
+
+
+LTE Release 9
+
+
+
+Objective: Learn about new features introduced in LTE Release 9.
+
+Release 9 features
+MBMS support
+Home eNodeB
+Positioning support
+Transmission schemes
+
+
+
+
+LTE Advanced – Release 10
+
+
+
+Objective: Learn about new features introduced in LTE Release 10.
+
+IMT-Advanced Technologies
+Carrier aggregation
+Uplink spatial multiplexing
+Spatial Orthogonal Resource Transmit Diversity
+Downlink enhanced MIMO
+CSI reference signals
+
+
+
+"
+49,DSP for FPGAs,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+3 days","Languages: 
+English","
+This three-day course will review DSP fundamentals from the perspective of implementation within the FPGA fabric. Particular emphasis will be given to highlighting the cost, with respect to both resources and performance, associated with the implementation of various DSP techniques and algorithms.
+Topics include:
+
+Introduction to FPGA hardware and technology for DSP applications
+DSP fixed-point arithmetic
+Signal flow graph techniques
+HDL code generation for FPGAs
+Fast Fourier Transform (FFT) Implementation
+Design and implementation of FIR, IIR and CIC filters
+CORDIC algorithm
+Design and implementation of adaptive algorithms such as LMS and QR algorithm
+Techniques for synchronisation and digital communications timing recovery
+
+
+
+
+","
+Day 1 of 3
+
+
+
+
+
+
+Introduction to DSP FPGA Hardware
+
+
+
+Objective: Provide introduction to DSP and FPGA. Understand general FPGA architecture and why FPGAs are uniquely suited to the implementation of DSP algorithms.
+
+From discrete logic to FPGAs -some history!
+The generic DSP system
+DSP cores and processors review
+Custom and semi-custom ASICs
+System-on-chip (SOC)
+FPGA flexibility and functionality
+FPGAs vs Programmable DSPs
+
+
+
+
+Linear Systems DSP Algorithm Review
+
+
+
+Objective: Review fundamental concepts of sampling theorem, quantization, Fourier analysis and digital filter design.
+
+Aliasing and reconstruction filters
+Sampling rates and wordlengths
+Z-domain notation and fundamental analysis
+FIR and IIR filters
+Digital filter design and specification
+Oversampling techniques (sigma delta)
+
+
+
+
+FPGA Technology
+
+
+
+Objective: Explore different Xilinx FPGA families and architectures. Provide introduction to Spartan 3 and Virtex-5 FPGAs.
+
+The FPGA technology roadmap
+Clocking rates, data rates and sample rates
+FPGA memory and registers
+Input/output blocks and requirements
+Bits, Slices and Configurable Logic Blocks
+Comparable MIPs Performance Ratings
+FPGA Families and Sources
+
+
+
+
+FPGA elements for DSP algorithms
+
+
+
+Objective: Understand DSP slices, clocking resources and power consumption.
+
+Building delay lines and Shift Registers
+Use of RAM (memory) on FPGAs
+Serial to Parallel and Parallel to serial
+Multiplexors for channel selection
+Full adders, carry logic, and adder trees
+Multipliers: Shift and Add; ROM based
+Efficient multiplier implementation
+
+
+
+
+DSP Arithmetic Essentials
+
+
+
+Objective: Understand fixed point binary arithmetic. Map arithmetic operations to Xilinx FPGA hardware.
+
+2's complement fixed point arithmetic
+Fundamental adders and multiplier arrays
+Division and square root arrays….not so easy!
+Wordlength issues and Fixed point arithmetic
+Saturate and wraparound
+Overflow and underflow
+
+
+
+
+Signal Flow Graph (SFG) Techniques
+
+
+
+Objective: Review the representation of DSP algorithms using signal flow graph. Use the Cut Set method to improve timing performance. Implement parallel and serial FIR filters.
+
+DSP/Digital Filter Signal Flow Graphs
+Latency, delays and ""anti-delays""!
+Re-timing: Cut-set and delay scaling
+The transpose FIR
+Pipelining and multichannel architectures
+SFG topologies for FPGAs
+
+
+
+
+Day 2 of 3
+
+
+
+
+
+
+Frequency Domain Processing
+
+
+
+Objective: Discuss the theory and FPGA implementation of the Fast Fourier Transform.
+
+DFT, FFT and IFFT
+FFT FPGA architectures
+FFT wordlength growth and accuracy
+
+
+
+
+Multirate Signal Processing for FPGAs
+
+
+
+Objective: Develop polyphase structure for efficient implementation of multirate filters. Use CIC filter for interpolation and decimation.
+
+Upsampling and interpolation filters
+Downsampling and decimation filters
+Efficient arithmetic for FIR implementation
+Integrators and differentiators
+Half-band, moving average and comb filters
+Cascade Integrator Comb (CIC) Filters (Hogenauer)
+Efficient arithmetic for IIR Filtering
+
+
+
+
+CORDIC Techniques
+
+
+
+Objective: Introduce CORDIC algorithm for calculation of various trigonometric functions.
+
+CORDIC rotation mode and vector mode
+Compute cosine and sine function
+Compute vector magnitude and angle
+Architecture for FPGA implementation
+
+
+
+
+Day 3 of 3
+
+
+
+
+
+
+Adaptive DSP Algorithms and Applications
+
+
+
+Objective: Introduce LMS algorithm in adaptive signal processing. Illustrate QR algorithm as a Recursive Least Squares (RLS) technique and why it is particularly suited to FPGA implementation.
+
+Adaptive applications (equalisation, beamforming)
+LMS Algorithms and parallel implementation
+Non-canonical LMS algorithms
+Linear algebra; solving linear systems of equations
+The QR algorithm for adaptive signal processing
+QR processing requirements and numerical issues
+
+
+
+
+DSP Enabled Communications and FPGAs
+
+
+
+Objective: Review quadrature modulation and pulse-shaping. Discuss implementation of numerically controlled oscillators.
+
+Quaternary Phase Shift Keying (QPSK)
+Transmit/Receive Filters - Root Raised Cosine
+Undersampling and Digital Downconversion
+Direct digital upconversion
+Digital IF stages (and fs/4 Systems)
+Numerically controlled oscillators (NCO)
+Design partitioning for FPGAs
+
+
+
+
+Timing and Synchronisation Issues
+
+
+
+Objective: Cover symbol timing recovery, carrier phase recovery, carrier frequency recovery and frame synchronization.
+
+Carrier recovery, squaring and Costas loops, PLLs
+Phase rotations; Sampling rate conversions
+Symbol timing recovery, early/late gate detection
+Delay locked loop timing and synchronisation
+
+
+
+"
+50,Embedded Linux and System Integration for Zynq,"Level: 
+Advanced",['Programming Xilinx Zynq SoCs with MATLAB and Simulink'],"Duration: 
+2 days",,"
+This two-day training course will give attendees hands-on experience in creating and customizing an embedded Linux® system for their custom target using Zynq®. 
+Topics include:
+
+Creating a reference design in Vivado and SDK
+Software anatomy of a Zynq® system
+Zynq build system
+Building a custom Linux image for Zynq
+Integrating user space device drivers in Simulink
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Creating Reference Design in Vivado and SDK
+
+
+
+Objective: Create a Vivado® block diagram and SDK project to target PL and PS.
+
+Building a Vivado Block diagram to target PL
+Exporting hardware to SDK and creating board support package
+Creating a software application for ARM
+Automating build process through Tcl scripts
+
+
+
+
+Software Anatomy of a Zynq System
+
+
+
+Objective: Understand various software components like FSBL, u-boot, kernel, user-space.
+
+Overview of embedded Linux
+Understanding various components of boot image
+
+
+
+
+Zynq Build System
+
+
+
+Objective: Understand various software components to form a system image and an automation process.
+
+Understanding system boots
+Generating various binary files, including .elf, .bit, and open source build with buildroot
+Understanding storage device layout
+Using a MathWorks build system to have easy hooks for customization of bitstream/FSBL, devicetree and Kernel configuration
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Zynq Build System (Continued)
+
+
+
+Objective: Create a custom linux image with device drivers for various PL and PS integrated peripherals.
+
+Updating devicetree to include new mappings
+Modifying kernel to turn on a driver
+Creating boot.bin and generating custom SD card image
+
+
+
+
+Integrating User Space Device Drivers in Simulink
+
+
+
+Objective: Integrate device driver C code for peripherals in Simulink to communicate with the custom Linux image.
+
+Overview of the generated C code main function, scheduler timing and POSIX threads
+Creating a custom System object™
+Using coder.ceval and System objects for C code integration
+Interacting with custom Linux images from Simulink
+Creating a standalone application as part of boot image
+
+
+
+"
+51,Modeling Driveline Systems with Simscape,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals', 'Modeling Physical Systems with Simscape']","Duration: 
+1 day","Languages: 
+日本語, 中文","
+This course focuses on modeling mechanical systems for automotive applications in the Simulink® environment using Simscape Driveline™ (formerly SimDriveline™).
+Topics include:
+
+Modeling vehicle bodies and tires
+Designing and optimizing braking systems
+Designing mechanical power transmission mechanism
+Creating multidomain automotive models with closed-loop controllers
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to Vehicle Modeling
+
+
+
+Objective: Create and analyze vehicle body and tire models under various terrain, wind, and friction conditions.
+
+Vehicle body modeling
+Friction, wind, and terrain effects
+Sensing physical quantities
+Dividing model and measurements
+
+
+
+
+Braking Systems
+
+
+
+Objective: Model vehicle braking systems with built-in blocks and custom Simscape language components.
+
+Simscape Driveline brake blocks
+Measuring wheel quantities
+Custom brake model
+
+
+
+
+Transmission Mechanisms
+
+
+
+Objective: Build and test mechanical power transmission systems in Simscape Driveline.
+
+Actuating models with power sources
+Building driveline mechanisms
+Creating a multispeed transmission
+
+
+
+
+Multidomain Drive and Control
+
+
+
+Objective: Connect mechanical automotive models to other physical domains in Simscape and create realistic closed-loop control strategies.
+
+DC motor drive
+PWM actuation
+Closed-loop speed control
+
+
+
+"
+52,Modeling Electrical Power Systems with Simscape,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals', 'Modeling Physical Systems with Simscape']","Duration: 
+1 day","Languages: 
+English, 한국어, 中文","
+This course discusses how to model electrical power systems in the Simulink® environment using the Simscape Electrical™ Specialized Power Systems library (formerly SimPowerSystems™).
+Topics include:
+
+Creating three-phase systems with passive elements
+Creating three-phase systems with electrical machines
+Analyzing and controlling electrical power systems
+Modeling power electronic components
+Speeding up simulation of electrical models
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to Three-Phase Systems
+
+
+
+Objective: Become familiar with the Simscape Electrical environment by modeling a simple three-phase electrical system.
+
+Creating three-phase models
+Measuring physical quantities
+Viewing and setting initial states
+Modeling transformers
+Simulating nonlinear electrical models
+
+
+
+
+Three-Phase Systems with Electrical Machines
+
+
+
+Objective: Create models with three-phase electrical machines.
+
+Modeling electrical machines
+Actuating and measuring machine quantities
+Initializing machines
+Selecting solver methods
+
+
+
+
+Controlling Electrical Machines
+
+
+
+Objective: Analyze and control the effects of loads and disturbances on electrical machine models.
+
+Modeling breakers and faults
+Controlling electrical machines
+Improving model readability
+Parameterizing models
+
+
+
+
+Power Electronics
+
+
+
+Objective: Model electrical power conversion and transmission systems.
+
+Inverters and rectifiers
+Transmission losses
+Connection to Simscape
+Inverter control
+Model testing and integration
+
+
+
+"
+53,Modeling Fluid Systems with Simscape,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals', 'Modeling Physical Systems with Simscape']","Duration: 
+1 day","Languages: 
+English, 中文","
+This course focuses on modeling fluid systems in Simulink® using Simscape Fluids™ (formerly SimHydraulics®).
+Topics include:
+
+Modeling fluid power systems
+Actuating and controlling fluid system models
+Modeling thermal liquid and gas cooling systems
+Exchanging heat between fluid domains
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Hydromechanical Systems
+
+
+
+Objective: Use Simscape and Simscape Fluids blocks to model the conversion between mechanical and hydraulic energy.
+
+Hydraulic modeling in Simscape
+Data logging and visualization
+Hydromechanical components
+Fluid dynamics and properties
+
+
+
+
+Hydraulic Actuation and Control
+
+
+
+Objective: Model closed-loop fluid power systems controlled by valves and actuators.
+
+Valves in Simscape Fluids
+Feedback control with Simulink
+Accumulator control
+Model hierarchy and solvers
+
+
+
+
+Thermal Liquid Systems
+
+
+
+Objective: Model a liquid cooling system accounting for thermal and elevation effects.
+
+Thermal liquid networks
+Thermal networks
+Heat exchangers
+Elevation effects
+Temperature control
+
+
+
+
+Gas Systems
+
+
+
+Objective: Model a forced-air cooling system with ambient air ventilation.
+
+Gas networks
+Forced-air cooling
+Noncircular pipe flows
+Ventilation control
+System model integration
+
+
+
+"
+54,Modeling Multibody Mechanical Systems with Simscape,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals', 'Modeling Physical Systems with Simscape']","Duration: 
+1 day","Languages: 
+Deutsch, English, Français, 日本語, 한국어, 中文","
+This course focuses on how to model rigid-body mechanical systems in the Simulink® environment using Simscape Multibody™ (formerly SimMechanics™).
+Topics include:
+
+Modeling simple multibody systems
+Creating custom geometries and compound bodies
+Creating reusable models of mechanical systems
+Assembling, guiding, and verifying mechanisms
+Importing models from CAD software
+Combining Simulink, Simscape™, and Simscape Multibody blocks
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to Multibody Simulation
+
+
+
+Objective: Discuss the components that make up mechanical models and how to define them in Simscape Multibody.
+
+Terminology
+Solids
+Coordinate frames
+Joints
+Visualization
+
+
+
+
+Refining Components
+
+
+
+Objective: Create custom and complex rigid bodies, and parameterize parts for reusable Simscape Multibody models.
+
+Defining geometries
+Creating compound bodies
+Specifying body interfaces
+Parameterizing bodies for reuse
+
+
+
+
+Assembling Mechanisms
+
+
+
+Objective: Define and configure kinematics of a multibody machine in Simscape Multibody.
+
+Reusing existing components
+Specifying degrees of freedom
+Sensing and logging simulation results
+Adding stiffness and damping to joints
+Setting initial conditions
+Guiding and verifying an assembled mechanism
+
+
+
+
+Importing CAD Models
+
+
+
+Objective: Import existing parts and mechanisms from CAD platforms into Simscape Multibody.
+
+Visualizing bodies with CAD geometries
+Identifying the different CAD import workflows
+Exporting from CAD software
+Importing into Simscape Multibody
+Features captured by Simscape Multibody Link
+
+
+
+
+Connecting to Simscape and Simulink
+
+
+
+Objective: Illustrate the ways that Simscape Multibody blocks can interact with Simscape and Simulink blocks.
+
+Adding a combustion model using Simscape
+Actuating the piston head
+Sensing constraint forces on joints
+Adding a control system for throttle
+Creating a multidomain physical model
+
+
+
+"
+55,Modeling Physical Systems with Simscape,"Level: 
+Advanced","['MATLAB Fundamentals', 'Simulink Fundamentals']","Duration: 
+1 day","Languages: 
+Deutsch, English, Français, 日本語, 한국어, 中文","
+This course focuses on modeling systems in several physical domains and combine them into a multidomain system in the Simulink® environment using Simscape™.
+Topics include:
+
+Creating models in various physical domains, such as electrical, mechanical, and hydraulic
+Interpreting Simscape diagrams
+Combining Simulink models and Simscape models
+Modeling energy transfer between different physical domains
+Creating user-defined Simscape components
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to Simscape and the Physical Network Approach
+
+
+
+Objective: Become familiar with the Simscape environment by modeling a simple electrical system.
+
+Introduction to Simscape
+Differences between Simulink and Simscape
+Building and simulating a model in Simscape
+Guidelines for Simscape modeling
+
+
+
+
+Working with Simscape Components
+
+
+
+Objective: Interpret Simscape block diagrams and identify the physical variables in Simscape by modeling a mechanical system.
+
+Describing Simscape component fundamentals
+Using the Simscape Foundation Library
+Setting initial conditions
+Logging physical variables
+
+
+
+
+Connecting Physical Domains
+
+
+
+Objective: Connect models from different physical domains to create a single, multidomain model.
+
+Creating multidomain physical components
+Modeling ideal and nonideal connections between physical domains
+Dividing components into subsystems
+Parameterizing models
+
+
+
+
+Combining Simscape Models and Simulink Models
+
+
+
+Objective: Add Simulink blocks to a Simscape model to increase modeling flexibility.
+
+Connecting physical signals and Simulink signals
+Performing operations on physical signals
+Controlling physical models
+Solving models with Simscape and Simulink blocks
+
+
+
+
+Creating Custom Components with the Simscape Language
+
+
+
+Objective: Leverage the Simscape language to create custom physical components in Simscape.
+
+Simscape language
+Custom component workflow
+Complete custom component example
+
+
+
+"
+56,Real-Time Testing with Simulink Real-Time and Speedgoat Hardware,"Level: 
+Advanced","['Simulink Fundamentals (or Simulink Fundamentals for Automotive Applications or Simulink Fundamentals for Aerospace Applications)', 'Knowledge of Simscape™ preferred']","Duration: 
+4 half-days","Languages: 
+Deutsch, English, 한국어","
+This hands-on four half-day course focuses on real-time testing workflows, including rapid control prototyping (RCP) and hardware-in-the-loop (HIL) testing, using Simulink Real-Time™ software and Speedgoat real-time computers. Attendees will convert desktop-based simulation applications into real-time applications that run on the target machine and interface with physical hardware. Emphasis is placed on interacting with the application in real-time and analyzing the outputs for validation. This course is intended for intermediate to advanced Simulink® users who are adopting real-time testing in their development process.
+
+
+
+","
+Day 1 of 4
+
+
+
+
+
+
+Workflow Overview
+Objective: Set up the real-time testing hardware and test communications between host and target computers.
+
+Real-time testing overview
+Setting up the host and target computers
+Running a real-time application
+Tuning parameters
+Monitoring and visualizing Signals
+Creating a standalone application
+
+Developing Real-Time Applications
+Objective: Use Speedgoat driver blocks to convert a desktop-based test bench to an RCP application.
+
+Permanent magnetic synchronous motor (PMSM) hardware introduction
+Converting plant models into plant hardware interfaces
+Implementing Speedgoat I/O drivers
+
+
+
+
+Day 2 of 4
+
+
+
+
+
+
+Developing Real-Time Applications 
+Objective: Use Speedgoat driver blocks to convert a desktop-based test bench to an RCP application.
+
+Testing sensors and actuators
+Executing closed-loop real-time simulations with physical hardware
+Using Simulink Dashboard blocks
+Buffering signals
+
+Building Interactive Interfaces
+Objective: Use App Designer to create interactive user interfaces to a real-time application.
+
+Arranging user interface components
+Performing real-time application tasks
+Visualizing signals
+Tuning parameters
+
+
+
+
+Day 3 of 4
+
+
+
+
+
+
+Automating Real-Time Tests 
+Objective: Use Simulink Test to create and execute an automated test suite.
+
+Building a harness for automated testing
+Creating test sequences
+Iterating input and parameter sets
+Analyzing test results
+Automating real-time tests with MATLAB
+
+Using Communications Protocols
+Objective: Configure IO blocks to interface the target machine with standard communication protocols.
+
+Simulink Real-Time protocol support
+Real-Time UDP
+I2C loopback testing
+
+
+
+
+Day 4 of 4
+
+
+
+
+
+
+Optimizing Plant Models for Real-Time Execution 
+Objective: Use the desktop model to validate model fidelity with respect to optimization considerations, and optimize the plant model to execute on target hardware.
+
+Measuring plant model accuracy
+Analyzing real-time performance
+Optimizing model solvers
+Evaluating alternative implementations
+
+Hardware-in-the-Loop Testing
+Objective: Convert a simulation test bench into a HIL testing configuration, and use a real-time plant model to validate system requirements.
+
+Hardware-in-the-Loop (HIL) workflow overview
+Running the controller algorithm on production hardware
+Setting up a HIL system
+Running HIL tests
+
+
+
+"
+57,Software-Defined Radio with Zynq using Simulink,"Level: 
+Advanced","['Programming Xilinx Zynq SoCs with MATLAB and Simulink', 'Knowledge of concepts of communications and hardware design']","Duration: 
+1 day",,"
+This hands-on, one-day course focuses on modeling designs based on software-defined radio in MATLAB® and Simulink® and configuring and deploying on the ADI RF SOM.
+Topics include:
+
+Modeling communications systems using Simulink
+Implementing Radio I/O with ADI RF SOM and Simulink
+Prototype deployment with real-time data via HW/SW co-design
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Model Communications System using Simulink
+Objective: Model and simulate RF signal chain and communications algorithms.
+
+Overview of software-defined radio concepts and workflows
+Model and understand AD9361 RF Agile Transceiver using Simulink
+Simulate a communications system that includes a transmitter, AD9361 Transceiver, channel and Receiver (RF test environment)
+
+Implement Radio I/O with ADI RF SOM and Simulink
+Objective: Verify the operation of baseband transceiver algorithm using real data streamed from the AD9361 into MATLAB and Simulink.
+
+Overview of System object and hardware platform
+Set up ADI RF SOM as RF front-end for over-the-air signal capture or transmission
+Perform baseband processing in MATLAB and Simulink on captured receive signal
+Configure AD9361 registers and filters via System object
+Verify algorithm performance for real data versus simulated data
+
+Prototype Deployment with Real-Time Data via HW/SW Co-Design
+Objective: Generate HDL and C code targeting the programmable logic (PL) and processing system (PS) on the Zynq SoC to implement TX/RX.
+
+Overview of Zynq HW/SW co-design workflow
+Implement Transmitter and Receiver on PL/PS using HW/SW co-design workflow
+Configure software interface model
+Download generated code to the ARM processor and tune system parameters in real-time operation via Simulink
+Deploy a stand-alone system
+
+
+
+"
+58,Upgrading from LTE to 5G with MATLAB,"Level: 
+Advanced",['MATLAB Fundamentals and Designing LTE and LTE Advanced Physical Layer Systems with MATLAB or significant experience with LTE systems'],"Duration: 
+1 day","Languages: 
+English","
+This one-day course provides an overview of the differences and new features of the 5G physical layer relative to the LTE physical layer. Using MATLAB and 5G Toolbox™, attendees will learn how to generate reference 5G NR waveforms and build and simulate an end-to-end 5G NR PHY model.
+Topics include:
+
+Descriptions of all of the signals and elements of the processing chain for the uplink and downlink 5G NR physical channels
+Best practices and example workflows for how to use 5G Toolbox to generate waveforms and simulate end-to-end systems
+
+
+
+
+","
+Day 1 of 1
+
+
+
+
+
+
+Introduction to the 5G NR Physical Layer
+Objective: Provide an introduction to the 5G standard and its differences with the LTE standard. Introduce general use cases and requirements for 5G. Learn about the resource grid and frame structure and numerology of 5G waveforms. Understand processing elements for different downlink and uplink physical channels, containing data and control information and physical signals. Learn about the initial acquisition procedures including cell search.
+
+Introduction to 5G: use cases, requirements, deployment scenarios
+5G Waveforms, Frame Structure, and Numerology
+Downlink and Uplink Data in 5G NR
+Downlink Control, CORESETs, and Uplink Control in 5G NR
+5G Physical Signals: DMRS, Synchronization Signal Block, Signals for Channel Sounding
+Initial Acquisition Procedures: Cell Search and RACH
+
+5G NR Waveform Generation and System Simulation Using the 5G Toolbox
+Objective: Learn best practices and workflows for using 5G Toolbox. Understand how to generate 5G waveforms, set up spatial channel model, and send a signal through the channel. Explore receiver implementation issues and end-to-end performance metrics. Introduce various application-specific workflows.
+
+Overview of 5G Toolbox
+Interactive and Programmatic 5G Waveform Generation
+Configuration of Cluster Delay Line and Tapped Delay Line Wireless Channel Models
+Signal Transmission through a Noisy Channel
+Receiver Implementation including Synchronization and Channel Estimation
+End-to-End System Performance Metrics
+Overview of Application-Specific Workflows
+
+
+
+"
+59,Generating HDL Code from Simulink,"Level: 
+Advanced",['Signal Processing with Simulink'],"Duration: 
+2 days","Languages: 
+English, 한국어","
+This two-day course shows how to generate and verify HDL code from a Simulink® model using HDL Coder™ and HDL Verifier™.
+Topics include:
+
+Preparing Simulink models for HDL code generation
+Generating HDL code and testbench for a compatible Simulink model
+Performing speed and area optimizations
+Integrating handwritten code and existing IP
+Verifying generated HDL code using testbench and cosimulation
+
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Preparing Simulink Models for HDL Code Generation
+
+
+
+Objective: Prepare a Simulink model for HDL code generation. Generate HDL code and testbench for simple models requiring no optimization.
+
+Preparing Simulink models for HDL code generation
+Generating HDL code
+Generating a test bench
+Verifying generated HDL code with an HDL simulator
+
+
+
+
+Fixed-Point Precision Control
+
+
+
+Objective: Establish correspondence between generated HDL code and specific Simulink blocks in the model. Use Fixed-Point Tool to finalize fixed point architecture of the model.
+
+Fixed-point scaling and inheritance
+Fixed-Point Designer workflow
+Fixed-Point Tool
+Command-line interface
+
+
+
+
+Generating HDL Code for Multirate Models
+
+
+
+Objective: Generate HDL code for multirate designs.
+
+Preparing a multirate model for generating HDL code
+Generating HDL code with single or multiple clock pins
+Understanding and applying techniques used for clock domain crossing
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Optimizing Generated HDL Code
+
+
+
+Objective: Use pipelines to meet design timing requirements. Use specific hardware implementations and share resources for area optimization.
+
+Generating HDL code with the HDL Workflow Advisor
+Meeting timing requirements via pipelining
+Choosing specific hardware implementations for compatible Simulink blocks
+Sharing FPGA/ASIC resources in subsystems
+Verifying that the optimized HDL code is bit-true cycle-accurate
+Mapping Simulink blocks to dedicated hardware resources on FPGA
+
+
+
+
+Using Native Floating Point
+
+
+
+Objective: Implement floating point values and operations in your HDL code.
+
+Why and when to use native floating point
+Target-independent HDL code generation with HDL Coder
+Fixed-point vs. floating point comparison
+Optimization of floating point implementations
+
+
+
+
+Interfacing External HDL Code with Generated HDL
+
+
+
+Objective: Incorporate hand-written HDL code and/or vendor party IP in your design.
+
+Interfacing external HDL code
+
+
+
+
+Verifying HDL Code with Cosimulation
+
+
+
+Objective: Verify your HDL code using an HDL simulator in the Simulink model.
+
+Verifying HDL code generated with HDL Coder
+Comparing manually written HDL code with a ""golden model""
+Incorporating HDL code into Simulink for simulation
+
+
+
+"
+60,MATLAB to C with MATLAB Coder,"Level: 
+Advanced",['MATLAB Fundamentals and knowledge of C programming language'],"Duration: 
+2 days","Languages: 
+English","
+This two-day course focuses on generating C code from MATLAB® code using MATLAB Coder™. The focus is on developing MATLAB code that is ready for code generation, generating C code that meets optimization requirements, and integrating generated code into parent projects and external modules. This course is intended for intermediate to advanced MATLAB users.
+
+
+
+","
+Day 1 of 2
+
+
+
+
+
+
+Code Generation with MATLAB Coder
+
+
+
+Objective: Become familiar with MATLAB Coder and its applications.
+
+MATLAB Coder overview
+Workflow for generating C code from MATLAB code
+Generating C code
+Verifying generated code
+Navigating generated code
+
+
+
+
+Preparing MATLAB Code for Code Generation
+
+
+
+Objective: Use MATLAB Coder coding standards to write MATLAB code that is ready for code generation.
+
+Translating MATLAB code into C code
+Calling unsupported MATLAB functions
+Preparing existing MATLAB code
+Code preparation workflows
+
+
+
+
+Working with Fixed-Size Data
+
+
+
+Objective: Generate C code from MATLAB code that has fixed-size or constant inputs.
+
+Data characteristics overview
+Specifying fixed-size, top-level input
+Specifying constant top-level inputs
+
+
+
+
+Working with Variable-Size Data
+
+
+
+Objective: Generate C code from MATLAB code that has variable-size inputs or local data.
+
+Specifying variable-size, top-level inputs
+Specifying variable-size local data
+Reusing variables
+
+
+
+
+Day 2 of 2
+
+
+
+
+
+
+Working with Global Data, Structures, and Cell Arrays
+
+
+
+Objective: Generate C code from MATLAB code that contains persistent data, global variables, input structures, or cell arrays.
+
+Persistent variables
+Global variables
+Working with structures
+Cell arrays in generated code
+Passing arguments by reference
+
+
+
+
+Integrating with External Code
+
+
+
+Objective: Integrate generated C code from MATLAB Coder with external C code.
+
+Code integration overview
+Entry points to generated code
+Integrating external C code using MATLAB Coder interface
+Integrating external C code using an external IDE
+Calling external C functions
+Code verification and profiling
+Source code debugging
+
+
+
+
+Optimizing Generated Code
+
+
+
+Objective: Use various options and techniques to optimize generated code.
+
+Code optimization with loop unrolling and null initialization
+Function inlining and file partitioning
+Configuration objects
+Removing unnecessary code
+Naming conventions in generated code
+Converting a project to a script
+
+
+
+"
+61,Model-Based Design Introduction,,,,,"
+This class is currently only available in Japan
+
+
+
+","
+"
